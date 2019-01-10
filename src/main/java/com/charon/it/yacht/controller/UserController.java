@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.charon.it.yacht.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class UserController {
     @RequestMapping("/index")
     public String index(){
-        return "index";
+        return "ytcz";
     }
 
     @RequestMapping("/test")
