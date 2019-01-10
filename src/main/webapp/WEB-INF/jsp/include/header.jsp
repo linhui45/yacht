@@ -14,6 +14,7 @@ To change this template use File | Settings | File Templates.
 <link href="${contextPath}/static/css/souyacht_qianggou.css" rel="stylesheet" type="text/css" />
 <link href="${contextPath}/static/css/yacht.css" rel="stylesheet" type="text/css"/>
 <link href="${contextPath}/static/css/aa.css" rel="stylesheet" type="text/css"/>
+<link href="${contextPath}/static/css/souyacht_news.css" rel="stylesheet" type="text/css"/>
 
 <script type="text/javascript" src="${contextPath}/static/js/jquery-1.11.3.min.js"></script>
 <meta property="qc:admins" content="061376005763751130463757"/>
