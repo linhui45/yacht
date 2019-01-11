@@ -17,3 +17,6 @@ To change this template use File | Settings | File Templates.
 <script type="text/javascript" src="${contextPath}/static/js/kefu.js"></script>
 <script type="text/javascript" src="${contextPath}/static/js/jquery.SuperSlide.js"></script>
 <script type="text/javascript" src="${contextPath}/static/js/news_snqie.js"></script>
+
+<script type="text/javascript" src="${contextPath}/static/layui/layui.js"></script>
+<script type="text/javascript" src="${contextPath}/static/layui/layui.all.js"></script>

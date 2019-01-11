@@ -8,13 +8,15 @@ To change this template use File | Settings | File Templates.
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <link rel="shortcut icon" href="http://www.souyacht.com/souyacht.ico"/>
-<link href="${contextPath}/static/css/comm.css" rel="stylesheet" type="text/css"/>
 <link href="${contextPath}/static/css/souyacht.css" rel="stylesheet" type="text/css"/>
 <link href="${contextPath}/static/css/owl.carousel.css" rel="stylesheet" type="text/css"/>
 <link href="${contextPath}/static/css/souyacht_qianggou.css" rel="stylesheet" type="text/css" />
 <link href="${contextPath}/static/css/yacht.css" rel="stylesheet" type="text/css"/>
 <link href="${contextPath}/static/css/aa.css" rel="stylesheet" type="text/css"/>
 <link href="${contextPath}/static/css/souyacht_news.css" rel="stylesheet" type="text/css"/>
+
+<link href="${contextPath}/static/layui/css/layui.css" rel="stylesheet" type="text/css"/>
+<link href="${contextPath}/static/css/comm.css" rel="stylesheet" type="text/css"/>
 
 <script type="text/javascript" src="${contextPath}/static/js/jquery-1.11.3.min.js"></script>
 <meta property="qc:admins" content="061376005763751130463757"/>
