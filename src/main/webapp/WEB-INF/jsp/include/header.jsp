@@ -14,6 +14,7 @@ To change this template use File | Settings | File Templates.
 <link href="${contextPath}/static/css/yacht.css" rel="stylesheet" type="text/css"/>
 <link href="${contextPath}/static/css/aa.css" rel="stylesheet" type="text/css"/>
 <link href="${contextPath}/static/css/souyacht_news.css" rel="stylesheet" type="text/css"/>
+<link href="${contextPath}/static/css/souyacht_matou.css" rel="stylesheet" type="text/css"/>
 
 <link href="${contextPath}/static/layui/css/layui.css" rel="stylesheet" type="text/css"/>
 <link href="${contextPath}/static/css/comm.css" rel="stylesheet" type="text/css"/>

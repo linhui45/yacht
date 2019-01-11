@@ -51,28 +51,30 @@
 </div>
 <div class="layui-tab nav" lay-filter="test1">
     <ul class="layui-tab-title nav_box">
-        <li lay-id="111" class="layui-this"><h2><a href="javascript:;" title="搜艇网首页" >首页</a></h2><span></span></li>
-        <li lay-id="222"><h2><a href="javascript:;" title="租游艇限时抢购" target="_blank">特价游艇出租</a></h2><span></span></li>
-        <li lay-id="333"><h2><a href="javascript:;" title="游艇出售">游艇出售</a></h2><span></span></li>
-        <li lay-id="444"><h2><a href="javascript:;" title="游艇资讯" >游艇资讯</a>
+        <li lay-id="tab_shouye" class="layui-this"><h2><a href="javascript:;" title="搜艇网首页" >首页</a></h2><span></span></li>
+        <li lay-id="tab_chuzu"><h2><a href="javascript:;" title="租游艇限时抢购" target="_blank">特价游艇出租</a></h2><span></span></li>
+        <li lay-id="tab_chushou"><h2><a href="javascript:;" title="游艇出售">游艇出售</a></h2><span></span></li>
+        <li lay-id="tab_zixun"><h2><a href="javascript:;" title="游艇资讯" >游艇资讯</a>
             <ul>
-                <li id="zhunav"><a href="http://www.souyacht.com/news/" title="游艇资讯">游艇资讯</a></li>
-                <li class="martop10"><a href="http://www.souyacht.com/news/hangyezixun.html" title="行业资讯">行业资讯</a></li>
-                <li><a href="http://www.souyacht.com/news/shenghuofangshi.html" title="游艇生活">游艇生活</a></li>
-                <li><a href="http://www.souyacht.com/news/youtingzhushou.html" title="游艇助手">游艇助手</a></li>
-                <li><a href="http://www.souyacht.com/news/youtingxueyuan.html" title="游艇学院">游艇学院</a></li>
+                <li id="zhunav"><a href="javascript:;" title="游艇资讯">游艇资讯</a></li>
+                <li class="martop10" lay-id="4441"><a href="javascript:;" title="行业资讯">行业资讯</a></li>
+                <li><a href="javascript:;"  lay-id="4442" title="游艇生活">游艇生活</a></li>
+                <li><a href="javascript:;" lay-id="4443" title="游艇助手">游艇助手</a></li>
+                <li><a href="javascript:;" lay-id="4444" title="游艇学院">游艇学院</a></li>
             </ul>
         </h2><span></span></li>
-        <li lay-id="555"><h2><a href="javascript:;" title="游艇大全" >游艇品牌</a></h2><span></span></li>
-        <li lay-id="666"><h2><a href="javascript:;" title="游艇码头" >游艇码头</a></h2><span></span></li>
+        <li lay-id="tab_brand"><h2><a href="javascript:;" title="游艇大全" >游艇品牌</a></h2><span></span></li>
+        <li lay-id="tab_matou"><h2><a href="javascript:;" title="游艇码头" >游艇码头</a></h2><span></span></li>
     </ul>
     <div class="layui-tab-content">
         <div class="layui-tab-item layui-show"><jsp:include page="tabpage/tab_shouye.jsp"/></div>
-        <div class="layui-tab-item"><jsp:include page="tabpage/tab_chuzu.jsp"/></div>
+        <div class="layui-tab-item">
+                <jsp:include page="tabpage/tab_chuzu.jsp"/>
+        </div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_chushou.jsp"/></div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_zixun.jsp"/></div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_brand.jsp"/></div>
-        <div class="layui-tab-item">6</div>
+        <div class="layui-tab-item"><jsp:include page="tabpage/tab_matou.jsp"/></div>
     </div>
     <div class="fuwu">
         <div class="fuwu_box">

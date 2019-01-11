@@ -8,27 +8,27 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <div id="owl-demo" class="owl-carousel">
 
-    <a class="item" href="http://www.souyacht.com/qianggou" target="_blank" title="3.1" style="
+    <a class="item" href="javascript:;" target="_blank" title="3.1" style="
             background:url(${contextPath}/static/upload/banner/2018-03-01/2018-03-01_17_38_32.jpg) no-repeat center top"></a>
 
 
-    <a class="item" href="http://www.souyacht.com/qianggou" target="_blank" title="游艇盛宴"
+    <a class="item" href="javascript:;" target="_blank" title="游艇盛宴"
        style=" background:url(${contextPath}/static/upload/banner/2018-02-11/2018-02-11_16_41_01.jpg) no-repeat center top"></a>
 
 
-    <a class="item" href="#" target="_blank" title="免税店"
+    <a class="item" href="javascript:;" target="_blank" title="免税店"
        style=" background:url(${contextPath}/static/upload/banner/2017-12-08/2017-12-08_18_39_25.jpg) no-repeat center top"></a>
 
 
-    <a class="item" href="#" target="_blank" title="搜艇网"
+    <a class="item" href="javascript:;" target="_blank" title="搜艇网"
        style=" background:url(${contextPath}/static/upload/banner/2017-12-08/2017-12-08_18_37_59.jpg) no-repeat center top"></a>
 
 
-    <a class="item" href="http://www.souyacht.com/qianggou/" target="_blank" title="租游艇就上搜艇网"
+    <a class="item" href="javascript:;" target="_blank" title="租游艇就上搜艇网"
        style=" background:url(${contextPath}/static/upload/banner/2018-01-17/2018-01-17_14_54_42.jpg) no-repeat center top"></a>
 
 
-    <a class="item" href="http://www.souyacht.com/qianggou/" target="_blank" title="游艇"
+    <a class="item" href="javascript:;" target="_blank" title="游艇"
        style=" background:url(${contextPath}/static/upload/banner/2018-01-17/2018-01-17_14_59_14.jpg) no-repeat center top"></a>
 
 
@@ -296,7 +296,6 @@
         <div id="con_TabHAO_3" class="along_cen" style="display:none;">
             <dd class="index_tejia index_ri wi_fff">
                 <ul>
-
                     <li>
                         <a href="http://www.souyacht.com/qianggou/qianggou_75.html" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-28/2016-07-28_16_34_42.jpg"
@@ -629,8 +628,6 @@
                 </ul>
             </dd>
         </div>
-
-
     </div>
 
 

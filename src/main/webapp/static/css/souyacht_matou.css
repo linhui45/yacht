@@ -1,0 +1,39 @@
+.mvlist{width:1200px; overflow:hidden; margin:0px auto;overflow:hidden;}
+.mvlist ul{width:1220px;overflow:hidden;float:left;}
+.mvlist ul li{width:283px; height:400px;float:left; border:#f1f1f1 1px solid; margin:20px 20px 0px 0px; display:inline; position:relative; cursor:pointer;}
+.mvlist ul li img{width:283px; height:203px; float:left;}
+.mvlist ul li span{width:243px; height:50px; float:left; line-height:50px; font-size:18px; font-weight:bold; margin-left:20px; display:inline; overflow:hidden;}
+.mvlist ul li p{width:243px; height:100px; float:left; line-height:25px; margin-left:20px; display:inline; color:#999; overflow:hidden;}
+.mvlist ul li em{width:243px; height:25px; float:left; line-height:25px; margin-left:20px; display:inline; color:#999; overflow:hidden; margin-top:10px;}
+.mvlist ul li i{display:none;}
+.mvlist ul li:hover i{width:243px; height:163px; float:left;top:0px; left:0; cursor:pointer; text-decoration:none; position:absolute; padding:20px; color:#FFF; line-height:32px; display:block;}
+/***参数列表***/
+.can_table{width:913px;overflow:hidden;border:#f1f1f1  1px solid; border-bottom:0px;  border-left:0px; margin-top:20px; float:left;}
+.can_table li{width:100%; height:40px; float:left; border-bottom:#f1f1f1 1px solid; line-height:40px; font-size:12px;}
+.can_table li span{width:82px; height:100%; float:left; border-right:#f1f1f1  1px solid;border-left:#f1f1f1  1px solid; padding-left:10px;background:#fbfbfb;}
+.can_table li em{width:352px; height:100%; float:left;padding-left:10px;}
+.can_table li i{width:512px; height:100%; float:left;padding-left:10px;}
+
+.zx_zixunxx{width:914px; border:1px #f1f1f1 solid; border-top:none; padding:20px 20px 10px 20px; float:left; overflow:hidden;}
+.zx_zixunxx h2{width:914px; font-size:15px; font-weight:bold; text-align:center;}
+.zx_laiyuan{width:914px; text-align:center; line-height:35px; overflow:hidden;}
+.zx_laiyuan em{margin-right:20px;}
+.zx_laiyuan span{color:#F00; font-weight:bold;}
+.zxneir{line-height:41px; padding:10px 0px 20px 0px; border-bottom:#f1f1f1 1px solid; font-size:14px; margin-top:10px;float:left;}
+.zxneir img{ margin-top:10px; margin-bottom:10px;}
+.hdxx_libg{width:897px; height:40px; line-height:40px; border-left:5px #01a8ed solid; background:#fbfbfb; float:left; padding-left:12px; font-size:13px; font-weight:bold;}
+.hdxx_hdxx{width:100%; float:left; padding-top:10px; padding-bottom:10px;}
+.hdxx_hdxx li{width:900px; background:url(../images/zx_icon.jpg) no-repeat left 16px; padding-left:14px; line-height:36px; float:left; overflow:hidden;  font-size:13px;}
+.hdxx_hdxx li .cf0{color:#F00; font-weight:bold;}
+.hdxx_hdxx li span{ padding-left:6px;}
+.zx_biaoq{width:914px; height:34px; float:left; margin-top:20px;}
+.zx_biaoq span{width:22px; height:34px; float:left;}
+.zx_biaoq h5{padding:0px 11px;height:34px; float:left; margin-left:6px; display:inline; line-height:34px; text-align:center; color:#fff; font-weight:normal; background:#01a8ed; font-size:12px; font-weight:bold;}
+
+.new_paihang{width:202px; margin:0px auto;}
+.new_paihang li{width:202px; height:71px; border-bottom:1px #e2e2e2 dashed; overflow:hidden; padding-top:10px;}
+.new_paihang li span.nph_pic{width:85px; height:61px; float:left;}
+.new_paihang li span.nph_pic img{width:85px; height:61px;}
+.new_paihang li span.nph_con{width:107px; float:right; height:61px; font-size:12px;}
+.new_paihang li span.nph_con em{height:48px; overflow:hidden; line-height:24px; float:left;}
+.new_paihang li span.nph_con i{width:100%; line-height:16px; float:left;}
