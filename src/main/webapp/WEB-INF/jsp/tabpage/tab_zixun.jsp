@@ -114,7 +114,7 @@
 
 <div class="news_huizhan">
 	<dt><span>游艇宝贝</span><em><a href="http://www.souyacht.com/news/youtingbaobei.html" title="游艇宝贝" target="_blank"><img
-			src="images/more.jpg"/></a></em></dt>
+			src="${contextPath}/static/images/more.jpg"/></a></em></dt>
 	<dd>
 		<ul>
 			<li><span class="blacktm"></span><span class="white"><a
@@ -150,7 +150,7 @@
 </div>
 
 <div class="guanggao"><a href='http://www.souyacht.com/job/zhaopin.html' title='搜艇网游艇人才频道' target='_blank'><img
-		src='/upload/guanggao/2015-03-30/2015-03-30_15_52_25.jpg'/></a></div>
+		src='${contextPath}/static/upload/guanggao/2015-03-30/2015-03-30_15_52_25.jpg'/></a></div>
 
 <div class="news_boxa">
 
@@ -161,7 +161,7 @@
 		<dd>
 			<li>
 				<a href="/news/youtingzhishixx_365.html" title="驾驶摩托艇的技巧和注意事项" target="_blank"><img
-						src="/upload/news/2015-10-08/2015-10-08_22_32_16.jpg"/></a>
+						src="${contextPath}/static/upload/news/2015-10-08/2015-10-08_22_32_16.jpg"/></a>
 				<span class="yincang"><a href="/news/youtingzhishixx_365.html" title="驾驶摩托艇的技巧和注意事项" target="_blank">驾驶摩托艇的技巧和注意事项</a></span>
 				<em class="blue">2015-10-08&nbsp;&nbsp;&nbsp;<a href="/news/youtingzhishi.html" title="游艇知识"
 				                                                target="_blank">游艇知识</a></em>
@@ -171,7 +171,7 @@
 			</li>
 			<li>
 				<a href="/news/youtingzhishixx_364.html" title="玻璃钢游艇日常维护9大注意事项" target="_blank"><img
-						src="/upload/news/2015-10-08/2015-10-08_22_30_06.jpg"/></a>
+						src="${contextPath}/static/upload/news/2015-10-08/2015-10-08_22_30_06.jpg"/></a>
 				<span class="yincang"><a href="/news/youtingzhishixx_364.html" title="玻璃钢游艇日常维护9大注意事项" target="_blank">玻璃钢游艇日常维护9大注意事项</a></span>
 				<em class="blue">2015-10-08&nbsp;&nbsp;&nbsp;<a href="/news/youtingzhishi.html" title="游艇知识"
 				                                                target="_blank">游艇知识</a></em>
@@ -181,7 +181,7 @@
 			</li>
 			<li>
 				<a href="/news/youtingzhishixx_363.html" title="大帆船运动的角色分工" target="_blank"><img
-						src="/upload/news/2015-10-08/2015-10-08_22_27_42.jpg"/></a>
+						src="${contextPath}/static/upload/news/2015-10-08/2015-10-08_22_27_42.jpg"/></a>
 				<span class="yincang"><a href="/news/youtingzhishixx_363.html" title="大帆船运动的角色分工" target="_blank">大帆船运动的角色分工</a></span>
 				<em class="blue">2015-10-08&nbsp;&nbsp;&nbsp;<a href="/news/youtingzhishi.html" title="游艇知识"
 				                                                target="_blank">游艇知识</a></em>
@@ -213,23 +213,23 @@
 		<dd class="news_shichang_pic">
 			<li>
 				<span><a href="/news/weixiubaoyangxx_185.html" title="日常清洗及维护帆船" target="_blank"><img
-						src="/upload/news/2015-06-08/2015-06-08_09_28_42.jpg"/></a></span>
+						src="${contextPath}/static/upload/news/2015-06-08/2015-06-08_09_28_42.jpg"/></a></span>
 				<em><a href="/news/weixiubaoyangxx_185.html" title="日常清洗及维护帆船" target="_blank">日常清洗及维护帆船</a></em>
 			</li>
 			<li>
 				<span><a href="/news/weixiubaoyangxx_91.html" title="豪华游艇船舱内部的维护和保养" target="_blank"><img
-						src="/upload/news/2014-10-15/2014-10-15_11_23_41.jpg"/></a></span>
+						src="${contextPath}/static/upload/news/2014-10-15/2014-10-15_11_23_41.jpg"/></a></span>
 				<em><a href="/news/weixiubaoyangxx_91.html" title="豪华游艇船舱内部的维护和保养"
 				       target="_blank">豪华游艇船舱内部的维护和保养</a></em>
 			</li>
 			<li>
 				<span><a href="/news/weixiubaoyangxx_90.html" title="游艇故障处理方法" target="_blank"><img
-						src="/upload/news/2014-10-15/2014-10-15_11_22_16.jpg"/></a></span>
+						src="${contextPath}/static/upload/news/2014-10-15/2014-10-15_11_22_16.jpg"/></a></span>
 				<em><a href="/news/weixiubaoyangxx_90.html" title="游艇故障处理方法" target="_blank">游艇故障处理方法</a></em>
 			</li>
 			<li>
 				<span><a href="/news/weixiubaoyangxx_89.html" title="充气艇的日常简单保养" target="_blank"><img
-						src="/upload/news/2014-10-15/2014-10-15_11_20_49.jpg"/></a></span>
+						src="${contextPath}/static/upload/news/2014-10-15/2014-10-15_11_20_49.jpg"/></a></span>
 				<em><a href="/news/weixiubaoyangxx_89.html" title="充气艇的日常简单保养" target="_blank">充气艇的日常简单保养</a></em>
 			</li>
 		</dd>
@@ -275,14 +275,14 @@
 </div>
 
 <div class="guanggao"><a href='http://www.souyacht.com/matou/' title='搜艇网游艇码头频道' target='_blank'><img
-		src='/upload/guanggao/2015-05-30/2015-05-30_10_58_25.jpg'/></a></div>
+		src='${contextPath}/static/upload/guanggao/2015-05-30/2015-05-30_10_58_25.jpg'/></a></div>
 
 <div class="news_boxb">
 
 	<div class="news_ytzhishi">
 		<li>
 			<a href="/news/hanghaichangshixx_415.html" title="你真的会玩摩托艇吗？" target="_blank"><img
-					src="/upload/news/2015-12-29/2015-12-29_09_06_29.jpg"/></a>
+					src="${contextPath}/static/upload/news/2015-12-29/2015-12-29_09_06_29.jpg"/></a>
 			<span class="yincang"><a href="/news/hanghaichangshixx_415.html" title="你真的会玩摩托艇吗？" target="_blank">你真的会玩摩托艇吗？</a></span>
 			<em class="blue">2015-12-29&nbsp;&nbsp;&nbsp;<a href="/news/hanghaichangshi.html" title="航海常识"
 			                                                target="_blank">航海常识</a></em>
@@ -292,7 +292,7 @@
 		</li>
 		<li>
 			<a href="/news/hanghaichangshixx_111.html" title="表示航海速度的“节”" target="_blank"><img
-					src="/upload/news/2014-10-15/2014-10-15_15_17_31.jpg"/></a>
+					src="${contextPath}/static/upload/news/2014-10-15/2014-10-15_15_17_31.jpg"/></a>
 			<span class="yincang"><a href="/news/hanghaichangshixx_111.html" title="表示航海速度的“节”" target="_blank">表示航海速度的“节”</a></span>
 			<em class="blue">2014-10-15&nbsp;&nbsp;&nbsp;<a href="/news/hanghaichangshi.html" title="航海常识"
 			                                                target="_blank">航海常识</a></em>
@@ -302,7 +302,7 @@
 		</li>
 		<li>
 			<a href="/news/hanghaichangshixx_110.html" title="中国主要海运航线" target="_blank"><img
-					src="/upload/news/2014-10-15/2014-10-15_15_13_50.jpg"/></a>
+					src="${contextPath}/static/upload/news/2014-10-15/2014-10-15_15_13_50.jpg"/></a>
 			<span class="yincang"><a href="/news/hanghaichangshixx_110.html" title="中国主要海运航线"
 			                         target="_blank">中国主要海运航线</a></span>
 			<em class="blue">2014-10-15&nbsp;&nbsp;&nbsp;<a href="/news/hanghaichangshi.html" title="航海常识"
@@ -317,23 +317,23 @@
 		<dd class="news_shichang_pic">
 			<li>
 				<span><a href="/news/hanghaichuxingxx_738.html" title="​这个年假，回到家的我们总逃不过七大姑八大姨的追问，这个时候夜游三亚湾岂不是一箭双雕？"
-				         target="_blank"><img src="/upload/news/2018-02-24/2018-02-24_11_06_25.png"/></a></span>
+				         target="_blank"><img src="${contextPath}/static/upload/news/2018-02-24/2018-02-24_11_06_25.png"/></a></span>
 				<em><a href="/news/hanghaichuxingxx_738.html" title="​这个年假，回到家的我们总逃不过七大姑八大姨的追问，这个时候夜游三亚湾岂不是一箭双雕？"
 				       target="_blank">​这个年假，回到家的我们总逃不过七大姑八大姨的追问，这个时候夜游三亚湾岂不是一箭双雕？</a></em>
 			</li>
 			<li>
 				<span><a href="/news/hanghaichuxingxx_664.html" title="​不可思议！三亚游艇出租周周有优惠，天天都特价​" target="_blank"><img
-						src="/upload/news/2017-11-02/2017-11-02_12_03_41.jpg"/></a></span>
+						src="${contextPath}/static/upload/news/2017-11-02/2017-11-02_12_03_41.jpg"/></a></span>
 				<em><a href="/news/hanghaichuxingxx_664.html" title="​不可思议！三亚游艇出租周周有优惠，天天都特价​" target="_blank">​不可思议！三亚游艇出租周周有优惠，天天都特价​</a></em>
 			</li>
 			<li>
 				<span><a href="/news/hanghaichuxingxx_662.html" title="​一小时不到900元，如此价格亲民的三亚游艇租赁，你见过吗？"
-				         target="_blank"><img src="/upload/news/2017-11-01/2017-11-01_10_01_32.jpg"/></a></span>
+				         target="_blank"><img src="${contextPath}/static/upload/news/2017-11-01/2017-11-01_10_01_32.jpg"/></a></span>
 				<em><a href="/news/hanghaichuxingxx_662.html" title="​一小时不到900元，如此价格亲民的三亚游艇租赁，你见过吗？" target="_blank">​一小时不到900元，如此价格亲民的三亚游艇租赁，你见过吗？</a></em>
 			</li>
 			<li>
 				<span><a href="/news/hanghaichuxingxx_661.html" title="​还不知道怎样玩转三亚租游艇？其实花样多着呢！" target="_blank"><img
-						src="/upload/news/2017-10-31/2017-10-31_10_58_15.jpg"/></a></span>
+						src="${contextPath}/static/upload/news/2017-10-31/2017-10-31_10_58_15.jpg"/></a></span>
 				<em><a href="/news/hanghaichuxingxx_661.html" title="​还不知道怎样玩转三亚租游艇？其实花样多着呢！" target="_blank">​还不知道怎样玩转三亚租游艇？其实花样多着呢！</a></em>
 			</li>
 		</dd>
@@ -391,7 +391,7 @@
 
 <div class="news_huizhan">
 	<dt><span>游艇赛事会展</span><em><a href="http://www.souyacht.com/news/saishihuizhan.html" title="游艇赛事会展" target="_blank"><img
-			src="images/more.jpg"/></a></em></dt>
+			src="${contextPath}/static/images/more.jpg"/></a></em></dt>
 	<dd>
 		<ul>
 			<li><span class="blacktm"></span><span class="white"><a
@@ -433,7 +433,7 @@
 </div>
 
 <div class="guanggao"><a href='http://www.3yyt.net' title='三亚喜登年游艇服务有限公司' target='_blank'><img
-		src='/upload/guanggao/2015-05-30/2015-05-30_10_56_42.jpg'/></a></div>
+		src='${contextPath}/static/upload/guanggao/2015-05-30/2015-05-30_10_56_42.jpg'/></a></div>
 
 <div class="news_boxd">
 
@@ -441,11 +441,11 @@
 
 		<div class="news_shenghuo_box news_shenghuo_l">
 			<dt><span>奢华度假</span><em><a href="http://www.souyacht.com/news/shehuadujia.html" title="奢华度假"
-			                            target="_blank"><img src="images/more.jpg"/></a></em></dt>
+			                            target="_blank"><img src="${contextPath}/static/images/more.jpg"/></a></em></dt>
 			<dd>
 				<div class="news_shenghuo_top">
 					<a href="/news/shehuadujiaxx_624.html" title="​  滴...您的三亚豪华游艇即将启动" target="_blank"><img
-							src="/upload/news/2017-08-30/2017-08-30_11_42_08.jpg"/></a>
+							src="${contextPath}/static/upload/news/2017-08-30/2017-08-30_11_42_08.jpg"/></a>
 					<span><a href="/news/shehuadujiaxx_624.html" title="​  滴...您的三亚豪华游艇即将启动" target="_blank">​  滴...您的三亚豪华游艇即将启动</a></span>
 					<em>搜艇网（http://www.souyacht.com，18876987699） <a href="/news/shehuadujiaxx_624.html"
 					                                                title="​  滴...您的三亚豪华游艇即将启动" target="_blank">[ 查看详情
@@ -468,11 +468,11 @@
 
 		<div class="news_shenghuo_box news_shenghuo_r">
 			<dt><span>政策法规</span><em><a href="http://www.souyacht.com/news/zhengcefagui.html" title="政策法规"
-			                            target="_blank"><img src="images/more.jpg"/></a></em></dt>
+			                            target="_blank"><img src="${contextPath}/static/images/more.jpg"/></a></em></dt>
 			<dd>
 				<div class="news_shenghuo_top">
 					<a href="/news/zhengcefaguixx_191.html" title="《游艇码头浮桥结构制作安装与检验标准》广东省地方标准通过专家审查"
-					   target="_blank"><img src="/upload/news/2015-06-08/2015-06-08_10_02_55.jpg"/></a>
+					   target="_blank"><img src="${contextPath}/static/upload/news/2015-06-08/2015-06-08_10_02_55.jpg"/></a>
 					<span><a href="/news/zhengcefaguixx_191.html" title="《游艇码头浮桥结构制作安装与检验标准》广东省地方标准通过专家审查"
 					         target="_blank">《游艇码头浮桥结构制作安装与检验标准》广东省地方标准通过专家审查</a></span>
 					<em>审定会专家组由来自广东省航道局、中交第四航务工程局有限公司、中交第四航务工程勘察... <a href="/news/zhengcefaguixx_191.html"
@@ -498,7 +498,7 @@
 
 	<div class="news_dujia">
 		<dt><span>游艇组织</span><em><a href="http://www.souyacht.com/news/youtingzuzhi.html" title="游艇组织"
-		                            target="_blank"><img src="images/more.jpg"/></a></em></dt>
+		                            target="_blank"><img src="${contextPath}/static/images/more.jpg"/></a></em></dt>
 		<dd>
 			<div class="news_dujia_news">
 				<li class="yincang"><a href="/news/youtingzuzhixx_152.html" title="青岛游艇制造业协会"

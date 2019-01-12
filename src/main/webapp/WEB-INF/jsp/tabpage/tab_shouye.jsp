@@ -39,7 +39,7 @@
         <dd class="index_tejia wi_fff">
             <ul>
                 <li>
-                    <a href="http://www.souyacht.com/qianggou/qianggou_75.html" title="" target="_blank">
+                    <a href="${contextPath}/page/subPage?name=tab_chuzu_xsqg" title="" target="_blank">
                         <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-28/2016-07-28_16_34_42.jpg"
                                 width="271" height="218"/></u>
                         <p><i>34人已买</i><b>￥2000</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>

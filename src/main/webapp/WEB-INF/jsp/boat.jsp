@@ -14,11 +14,12 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="Copyright" content="copyright www.souyacht.com[搜艇网]" />
     <meta name="AUTHOR" content="搜艇网" />
-    <meta name="Description" content="搜艇网，中国首家游艇O2O一站式服务平台;打造全中国最权威的游艇资讯服务平台门户。游艇码头频道汇集了中国游艇码头信息,海南游艇码头信息,广东游艇码头信息,广西游艇码头信息,福建游艇码头信息,浙江游艇码头信息,上海游艇码头信息,江苏游艇码头信息,山东游艇码头信息,辽宁游艇码头信息,香港游艇码头信息。" />
-    <meta name="Keywords" content="游艇码头,全国游艇码头总汇,中国有哪些游艇码头,游艇码头欣赏,游艇码头联系方式,搜艇网游艇码头" />
-    <title>所有游艇码头|游艇码头 - 搜艇网，全球游艇码头总汇！</title>
+    <meta name="Description" content="搜艇网，中国首家游艇O2O一站式服务平台;打造全中国最权威的游艇资讯服务平台门户。" />
+    <meta name="Keywords" content="特价游艇出租,全国游艇出租,中国有哪些游艇出租,三亚租游艇,三亚出海,三亚游艇出租,游艇出租联系方式,搜艇网游艇出租" />
+    <title>三亚46尺意大利海上法拉利搜艇网 -游艇出租 - 三亚市租游艇 - 游艇出租，三亚租游艇出海！</title>
     <link href="http://www.souyacht.com/css/comm.css" rel="stylesheet" type="text/css" />
-    <link href="css/souyacht_matou.css" rel="stylesheet" type="text/css" />
+    <link href="css/souyacht_qianggou.css" rel="stylesheet" type="text/css" />
+
     <script type="text/javascript" src="http://www.souyacht.com/layer/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="http://www.souyacht.com/layer/layer.min.js"></script>
     <script type="text/javascript">
@@ -27,6 +28,16 @@
         }
     </script>
 
+    <script type="text/javascript" src="http://www.souyacht.com/js/jspro.js"></script>
+    <script type="text/javascript" src="http://www.souyacht.com/js/radio.js"></script>
+    <script type="text/javascript" src="js/jquery.DB_gallery.js"></script>
+    <script	src="http://www.souyacht.com/js/jquery.smint.js" type="text/javascript" ></script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+
+        });
+
+    </script>
 </head>
 
 <body>
@@ -121,7 +132,7 @@
 <div class="nav">
     <div class="nav_box">
         <h2><a href="http://www.souyacht.com" title="搜艇网首页" >首页</a></h2><span></span>
-        <h2><a href="http://www.souyacht.com/qianggou/" title="租游艇限时抢购" target="_blank"  >特价游艇出租</a></h2><span></span>
+        <h2><a href="http://www.souyacht.com/qianggou/" title="租游艇限时抢购" target="_blank" id='nav_hover' >特价游艇出租</a></h2><span></span>
         <h2 class="navsj"><a href="http://www.souyacht.com/qiye/" title="游艇企业" >游艇企业</a>
             <ul>
                 <li id="zhunav"><a href="http://www.souyacht.com/qiye/" title="游艇企业">游艇企业</a></li>
@@ -159,193 +170,436 @@
             </ul>
         </h2><span></span>
         <h2><a href="http://www.souyacht.com/yacht/" title="游艇大全" >游艇品牌</a></h2><span></span>
-        <h2><a href="http://www.souyacht.com/matou/" title="游艇码头" id='nav_hover'>游艇码头</a></h2>
+        <h2><a href="http://www.souyacht.com/matou/" title="游艇码头" >游艇码头</a></h2>
         <!--<h2><a href="http://www.souyacht.com/about/" title="搜艇网服务中心" target="_blank">服务中心</a></h2>-->
         <p><a href="http://www.souyacht.com/map/" title="搜艇网地图搜索" target="_blank"><img src="http://www.souyacht.com/images/ditu.jpg"/></a></p>
     </div>
 </div>
-<div class="matoubanner"></div>
+<div class="qg_nav"><em>搜艇网安全保障</em><p><span>搜艇网</span> <i>限时抢购</i>[ 海南省 · 三亚市 ]&nbsp;三亚46尺意大利海上法拉利</p></div>
+<div class="qg_box">
+    <div class="qg_le">
+        <div class="qg_bt">
+            <h3>[ 海南省 · 三亚市 ]&nbsp;三亚46尺意大利海上法拉利</h3>
+            <p>46尺海上法拉利 </p>
+        </div>
+        <form name="myform1"  action="order.html" method="post" onSubmit="return check();">
+            <div class="qg_cp_tu sTop">
+                <div id="focus">
+                    <ul>
+                        <li><a href="#" target="_blank"><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-28/2016-07-28_16_34_42.jpg" width="448" height="360" /></a></li>
 
-<div class="list_box">
-    <div class="jd_list_chaxun jd_list_bor_bot w1198" id="martop20">
-        <dt class="w1156">
-            <a href="http://www.souyacht.com" title="搜艇网|www.souyacht.com.com">网站首页</a>
-            <i></i><a href="http://www.souyacht.com/matou/" title="游艇码头">游艇码头</a>
-            <p class="marleft20 jiacu">共 45 结果</p>
-        </dt>
-        <dd class="w1198">
-            <ul class="w1156">
-                <li class="jd_lst_sli">
-                    <span>所属地区：</span>
-                    <p class="w1094">
-                        <em id='jd_lst_over'><a href="index_times_0_0_0_1.html">不限</a></em>
-                        <em ><a href="index_times_1_0_0_1.html">海南</a></em>
-                        <em ><a href="index_times_2_0_0_1.html">广东</a></em>
-                        <em ><a href="index_times_3_0_0_1.html">广西</a></em>
-                        <em ><a href="index_times_4_0_0_1.html">福建</a></em>
-                        <em ><a href="index_times_5_0_0_1.html">浙江</a></em>
-                        <em ><a href="index_times_6_0_0_1.html">上海</a></em>
-                        <em ><a href="index_times_7_0_0_1.html">江苏</a></em>
-                        <em ><a href="index_times_8_0_0_1.html">山东</a></em>
-                        <em ><a href="index_times_9_0_0_1.html">辽宁</a></em>
-                        <em ><a href="index_times_10_0_0_1.html">香港</a></em>
-                        <em ><a href="index_times_11_0_0_1.html">国外</a></em>
+                        <li><a href="#" target="_blank"><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-28/2016-07-28_16_34_51.jpg" width="448" height="360" /></a></li>
+
+                        <li><a href="#" target="_blank"><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-28/2016-07-28_16_34_57.jpg" width="448" height="360" /></a></li>
+
+                        <li><a href="#" target="_blank"><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-28/2016-07-28_16_35_04.jpg" width="448" height="360" /></a></li>
+
+                        <li><a href="#" target="_blank"><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-28/2016-07-28_16_35_09.jpg" width="448" height="360" /></a></li>
+
+                        <li><a href="#" target="_blank"><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-28/2016-07-28_16_35_15.jpg" width="448" height="360" /></a></li>
+
+                    </ul>
+                    <!-----
+					<i></i>
+				  <p><em>已有 34 人预订</em>                    <span>距离活动结束还有 <strong id="RemainD">XX</strong>天 <strong id="RemainH">XX</strong>小时 <strong id="RemainM">XX</strong>分钟 <strong id="RemainS">XX</strong>.<strong id="RemainL">XX</strong>秒</span>
+									   </p>---->
+                </div>
+                <div class="qg_xinxi">
+                    <div class="qg_xinxi_nav">合格机构，优质服务，最低价格，消费保障</div>
+                    <div class="qg_xinxi_jg">
+                        <P><span>搜艇价格</span><b class="cl_orge" id="jiage">￥2000- 2800元</b><!----<u>原价：￥<del id="yt_yuanjia">0</del></u>----><!--<i id="yt_discu">2.2折</i>--></P>
+                        <P><span>计费方式</span><em class="cl_orge">3小时</em></P>
+                    </div>
+                    <div class="qg_xinxi_yd">
+                        <span class="cl_666">已预订<i class="cl_orge"> 34</i></span>
+                        <em class="cl_666">全款立减 0.00</em>
+                        <p class="cl_666">截止2029-07-25</p>
+                    </div>
+                    <div class="qg_xinxi_lx">
+                        <span>出海线路</span>
+                        <ul>
+                            <li  title="鹿回头码头—经三亚港—凤凰岛—小青洲岛—龙王庙—码头">出海线路1<input name="xianlu" type="radio" jiage="2000" yuanjia="1800" value="122" /></li>
+                            <li  title="鹿回头码头—经三亚港—凤凰岛—小青洲岛—东岛—码头">出海线路2<input name="xianlu" type="radio" jiage="2800" yuanjia="2200" value="123" /></li>
+                            <!-- <li class="qg_li01">出海线路二<input name="xianlu()" type="radio" value="b" /></li>
+	 <li>出海线路三<input name="xianlu()" type="radio" value="c" /></li>
+	 <li>出海线路四<input name="xianlu()" type="radio" value="d" /></li>
+	 <li>出海线路五<input name="xianlu()" type="radio" value="e" /></li>-->
+                        </ul>
+                        <span>预定方式</span>
+
+                        <div class="right_ts_em" >
+
+                            <ul class="Content_Tab_01">
+
+                                <li class="qg_li01 qg_li01" id="ATBAB1" onClick="setTabB('ATBAB',1,2)">订金￥800.00<input name="fanshi" type="radio" value="1" checked /></li>
+
+                                <input name="dingjin" id="dingjin" type="hidden" value="800.00" />
+                                <input name="bus_" id="bus_" type="hidden" value="6" />
+                                <input name="user_" id="user_" type="hidden" value="" />
+                                <input name="lijian" id="lijian" type="hidden" value="0.00" />
+                                <input name="id" id="id" type="hidden" value="75" />
+                                <li id="ATBAB2" onClick="setTabB('ATBAB',2,2)">全款<input name="fanshi" type="radio" value="2" /></li>
+
+                            </ul>
+                            <i class="qg_lifd">立减0.00元</i>
+                            <div id="con_ATBAB_1" class="long_cen" style="display:;float:left; ;">
+                                <p>在线支付订金<i class="cl_orge">￥800.00</i> 获取服务码，到店再付<i class="cl_orge" id="cha">￥1200</i>，预约成功不退还。</p>
+                            </div>
+                            <div id="con_ATBAB_2" class="long_cen long_cen01" style="display:none;">
+                                <p>在线支付订金<i class="cl_orge" id="cha2">￥2000</i> 获取服务码，预约成功不退还。</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="qg_xinxi_zf">
+                        <input name="" type="button" onclick="denglu(1)" value="立即预订" />
+                        <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=3174987158&amp;site=qq&amp;menu=yes" target="_blank"><em>客服</em></a>
+                    </div>
+                </div>
+            </div>
+        </form>
+        <div class="subMenu" >
+            <div class="inner_nav">
+                <a href="#s1" class="subNavBtn">增值服务</a>
+                <a href="#s2" class="subNavBtn">服务详情</a>
+                <a href="#s3" class="subNavBtn">游艇参数</a>
+                <a href="#s4" class="subNavBtn">图片详情</a>
+                <a href="#s5" class="subNavBtn">预定须知</a>
+
+                <a href="#s6" class="subNavBtn">用户点评</a>
+
+
+            </div>
+
+            <p>
+                <!---<input type="submit" onclick="http://wpa.qq.com/msgrd?v=3&amp;uin=3174987158&amp;site=qq&amp;menu=yes"   value="立即预定" />--->
+                <a href="#sTop"><em>立即预定</em></a>
+
+            </p>
+        </div>
+        <form name="myform" action="dingdan.html" method="post" onSubmit="return check();">
+            <input name="hangid" id="hangid" type="hidden" value="122" />
+            <div class="section s1">
+
+                <div class="s_nav01"><b>相关增值服务</b></div>
+                <div class="tu tu01">
+                    <a target="_blank" href="#" title=""><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-28/2016-07-28_16_34_42.jpg"  /></a>
+                    <p><em class="yincang">三亚46尺意大利海上法拉利</em><em id="zhujiage">价格：￥2000 元</em></p>
+
+                </div>
+                <div class="jia"></div>
+                <div class="scrolllist" id="simg">
+                    <a class="abtn aleft" href="#left" title="左移"></a>
+                    <a class="abtn aright" href="#right" title="右移"></a>
+                    <div class="imglist_w">
+                        <ul class="imglist">
+                        </ul>
+                    </div>
+
+                </div>
+                <div class="taocan">
+                    <p id="taocan">套餐价：￥2000元</p>
+                    <em id="jiesheng">节省：￥-200元</em>
+                    <del id="yuanjia">原价：￥1800元</del>
+                    <input name="" type="button" onclick="denglu(1)" value="立即购买套餐" />
+                </div>
+                <script type="text/javascript" src="js/slider.js"></script>
+            </div>
+        </form>
+        <div class="section s2">
+            <div class="s_nav01 s_nav02"><b>服务详情介绍</b></div>
+            <ul>
+                <li><b>有效期</b><span>2016-07-28 至 2023-07-28（周末、法定节假日通用）</span></li>
+                <li><b>使用时间</b><span>07:00-12:00,12:00-18:00</span></li>
+                <li><b>预约提醒</b><span>需要提供乘船人的姓名及联系方式</span></li>
+                <!---<li><b>限购限用提醒</b><span>每人限抢购一次及使用一次</span></li>---->
+                <li><b><i class="cl_orge">免费服务</i></b><span><i class="cl_orge">浮潜、海钓(配鱼竿鱼饵)，水果、矿泉水、饮料</i></span></li>
+                <li><b>停泊码头</b><span>鹿回头游艇游船公共码头</span></li>
+                <li class="li_none">
+                    <b>游玩航线</b>
+                    <p>
+                        出海线路 1：  鹿回头码头—经三亚港—凤凰岛—小青洲岛—龙王庙—码头 <br />
+                        出海线路 2：  鹿回头码头—经三亚港—凤凰岛—小青洲岛—东岛—码头 <br />
+
                     </p>
                 </li>
-                <li class="jd_lst_sli">
-                    <span>泊位数量：</span>
-                    <p class="w1094">
-                        <em id='jd_lst_over'><a href="index_times_0_0_0_1.html">不限</a></em>
-                        <em ><a href="index_times_0_1_0_1.html">200个以下</a></em>
-                        <em ><a href="index_times_0_2_0_1.html">200-300个</a></em>
-                        <em ><a href="index_times_0_3_0_1.html">301-400个</a></em>
-                        <em ><a href="index_times_0_4_0_1.html">401-500个</a></em>
-                        <em ><a href="index_times_0_5_0_1.html">501-600个</a></em>
-                        <em ><a href="index_times_0_6_0_1.html">601-700个</a></em>
-                        <em ><a href="index_times_0_7_0_1.html">700个以上</a></em>
-                    </p>
+                <li>
+                    <b>其他</b>
+                    <span>
+				接送收费                &nbsp;
+                </span>
                 </li>
-                <li class="jd_lst_sli">
-                    <span>成立年份：</span>
-                    <p class="w1094">
-                        <em id='jd_lst_over'><a href="index_times_0_0_0_1.html">不限</a></em>
-                        <em ><a href="index_times_0_0_1_1.html">2000年以前</a></em>
-                        <em ><a href="index_times_0_0_2_1.html">2001-2003年</a></em>
-                        <em ><a href="index_times_0_0_3_1.html">2004-2006年</a></em>
-                        <em ><a href="index_times_0_0_4_1.html">2007-2009年</a></em>
-                        <em ><a href="index_times_0_0_5_1.html">2010-2012年</a></em>
-                        <em ><a href="index_times_0_0_6_1.html">2012年以后</a></em>
-                    </p>
+                <li>
+                    <b>退款协议</b>
+
+                    <em>出海前24小时如因客人自身原因不来定金（全款）不退，如因商家原因无法出海定金（全款）全部退还。</em>
+
+
                 </li>
             </ul>
-        </dd>
+        </div>
+
+        <div class="section s3">
+            <div class="s_nav01 s_nav02"><b>小方舟</b></div>
+            <ul>
+                <!---<li><b>游艇类型</b><span>运动艇</span><b>游艇用途</b><em class="yincang">出海钓鱼 / 观光休闲 / 商务接待 / 朋友聚会</em></li>--->
+                <li><b>游艇新旧</b><span>九成新</span><b>游艇产地</b><em>意大利</em></li>
+                <li><b>游艇长度</b><span>46 英尺</span><b>游艇宽度</b><em>10 英尺</em></li>
+                <li><b>甲板层数</b><span>2 层</span><b>卧室数量</b><em>0 间</em></li>
+                <li><b>卫生间数量</b><span>1 间</span><b>限载人数</b><em><i class="cl_orge">10 人</i></em></li>
+                <!---<li><b>最高航速</b><span>15 节</span><b>巡航速度</b><em>1300 节</em></li>------------>
+                <li><b>船员水手</b><span><i class="cl_orge">配备船员水手 </i></span><b>影音设备</b><em>卫星电视 / KTV / 数码光碟 / 其他 </em></li>
+                <li><b>收费服务</b><span style=" width:760px; border-right:0;">摩托艇/每小时800，深潜/每人380 </span></li>
+
+            </ul>
+        </div>
+        <div class="section">
+            <div class="s_nav01 s_nav02"><b>服务相关视频介绍</b></div>
+            <div class="qg_video">
+                <iframe  src="http://player.youku.com/embed/XMTc1NDU4ODQxNg==" quality="high" width="920" height="508" align="middle" allowScriptAccess="always" allowFullScreen="true" wmode="transparent" mode="transparent" type="application/x-shockwave-flash"></iframe>
+            </div>
+        </div>
+        <div class="section s4">
+            <div class="s_nav01 s_nav02"><b>图文详情</b></div>
+            <style type="text/css">
+                .qg_wentuwen { line-height:25px;}
+            </style>
+            <div class="qg_wen qg_wentuwen">
+                <img src="http://www.souyacht.com/images/路线服务.jpg" alt="">
+                <p>
+                    <img src="${contextPath}/static/upload/bianjiqi/image/20160728/20160728082036_76481.jpg" alt="" />
+                </p>
+                <p style="text-align:center;">
+                    <span style="color:#999999;">大平台阳光浴后甲板 </span>
+                </p>
+                <p>
+                    <img src="${contextPath}/static/upload/bianjiqi/image/20160728/20160728082037_68510.jpg" alt="" />
+                </p>
+                <p style="text-align:center;">
+                    <span style="color:#999999;">46尺海上法拉利航拍</span>
+                </p>
+                <p>
+                    <img src="${contextPath}/static/upload/bianjiqi/image/20160728/20160728082040_77950.jpg" alt="" />
+                </p>
+                <p style="text-align:center;">
+                    <span style="color:#999999;">驾驶座、内饰</span>
+                </p>
+                <p>
+                    <img src="${contextPath}/static/upload/bianjiqi/image/20160728/20160728082041_15927.jpg" alt="" />
+                </p>
+                <p>
+                    <br />
+                </p>
+                <p style="text-align:center;">
+                    <img src="${contextPath}/static/upload/bianjiqi/image/20170322/20170322015913_60847.jpg" alt="" />
+                </p>
+                <p style="text-align:center;">
+                    <span style="color:#999999;">第一层船舱、海上KTV</span>
+                </p>
+                <p style="text-align:center;">
+                    <img src="${contextPath}/static/upload/bianjiqi/image/20170322/20170322015931_38624.jpg" alt="" />
+                </p>
+                <p style="text-align:center;">
+                    <span style="color:#999999;">简洁厨房</span>
+                </p>
+                <p style="text-align:center;">
+                    <img src="${contextPath}/static/upload/bianjiqi/image/20180613/20180613021815_66620.jpg" alt="" />
+                </p>
+                <p style="text-align:center;">
+                    <br />
+                </p>
+                <p style="text-align:center;">
+                    <img src="${contextPath}/static/upload/bianjiqi/image/20180613/20180613021815_82669.jpg" alt="" />
+                </p>        <img src="http://www.souyacht.com/news/images/20161226011619_68557.jpg" alt="">
+
+            </div>
+
+        </div>
+
+
+        <div class="section s5">
+            <div class="s_nav01"><b>预定须知</b></div>
+            <div class="qg_wen">
+                <p>
+                    1.严禁在码头及船舱内吸烟；
+                </p>
+                <p>
+                    2.凡患有心脏病、高血压、糖尿病、哮喘病、传染病等影响乘游艇安全的疾病及孕妇和严重晕船者不能乘游艇，如游客隐瞒上述情况，登游艇出航发生意外的，后果自负；
+                </p>
+                <p>
+                    3.60岁以上老人和12岁以下儿童应由成年人陪同乘游艇，并负责对老人和儿童的监护，70岁以上老人谢绝接待；
+                </p>
+                <p>
+                    4.请乘客听从船长指挥，非经允许不得操纵船艇；严禁与驾驶员打闹嬉戏；
+                </p>
+                <p>
+                    5.严禁将狗、猫等宠物带上游艇；
+                </p>
+                <p>
+                    6.游客在出海钓鱼及观光过程中，应严格遵守船长和工作人员根据当时情况及环境的规定和要求，严禁跳水等危险行为；
+                </p>
+                <p>
+                    7.如有轻微晕船情况，请提前吃晕船药或贴晕船贴，防止航行途中的不适，乘客如有不适请及时通知船长；
+                </p>
+                <p>
+                    8.如因客人自身原因提前返航，费用不退；
+                </p>
+                <p>
+                    9.地球是我们共同的家园，请保护海洋环境。
+                </p>        </div>
+        </div>
+        <!------
+		<div class="section s8">
+			<div class="s_nav01"><b>商家介绍</b></div>
+			<div class="qg_wen">
+			<p>
+		三亚喜登年游艇服务有限公司于2012年6月4日成立，主要经营游艇出租、托管、保养、维修、出售代理服务，帆船出租代理服务，泊位出租代理服务，摩托艇出租、出售代理业务。我公司已和三亚多家游艇公司建立了战略合作伙伴关系，其中包括鸿洲国际游艇会、椰海金滩游艇俱乐部、三亚市港务局游艇、扬帆游艇俱乐部等公司。通过我公司的不断努力和探讨，并和多个私人游艇业主签订了合作协议。可以让您的需求得以实现，成为征服海洋的王者。公司的官方网址为www.3yyt.net，通过我们的网站向各位朋友展示不同档次，大小不一，各种功能的游艇。
+	</p>
+	<p>
+		我们的经营宗旨是以客户满意为服务根本，不断创新，与时俱进。
+	</p>
+	<p>
+		我们希望能够为海南国际旅游岛的建设出一份力，为游艇爱好者提供一个很好的平台,本公司将倾力打造三亚最便捷的游艇租赁网上平台，希
+	</p>
+	<p>
+		望能为出海游玩的朋友提供优质便捷的服务。
+	</p>
+	<p>
+		美丽三亚，浪漫天涯。三亚这个美丽的热带天堂，旅游的爱好的度假胜地，中国最南端的滨海城市欢迎您。
+	</p>
+	<p>
+		(三亚喜登年游艇服务有限公司)欢迎您到海南三亚来。
+	</p>        </div>
+		</div>
+		----->
+        <div class="s6">
+            <div class="qg_pl_nav"><h3>用户点评</h3></div>
+            <div class="qg_pf">
+                <div class="qg_pf_fen">
+                    <p><b> 0.0</b>分</p>
+                    <h3 class="rate"><span style=" width:0%;"></span></h3>
+                    <span>共 0 人评分</span>
+                </div>
+                <div class="qg_pf_ping">
+                    <ul>
+                        <li>
+                            <em>服务质量</em>
+                            <p class="rate">
+                                <span style=" width:0%;"></span>
+                            </p>
+                            <span><i>0.0</i> 分</span>
+                        </li>
+
+                        <li>
+                            <em>服务态度</em>
+                            <p class="rate">
+                                <span style=" width:0%;"></span>
+                            </p>
+                            <span><i>0.0</i> 分</span>
+                        </li>
+
+                        <li>
+                            <em>服务环境</em>
+                            <p class="rate">
+                                <span style=" width:0%;"></span>
+                            </p>
+                            <span><i>0.0</i> 分</span>
+                        </li>
+
+                        <li>
+                            <em>增值套餐</em>
+                            <p class="rate">
+                                <span style=" width:0%;"></span>
+                            </p>
+                            <span><i>0.0</i> 分</span>
+                        </li>
+
+
+                    </ul>
+                </div>
+                <div class="qg_pf_xie">
+                    <p>我已经通过搜艇网预订过此服务</p>
+                    <a href="javascript:denglu(1);">写评论</a>
+                </div>
+            </div>
+
+            抱歉，该栏目暂无内容，敬请期待！
+            <div class="page page_zheqi">
+
+            </div>
+        </div>
+
     </div>
+    <div class="qg_ri">
+        <div class="qg_qy">
+            <dd>
+                <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=3174987158&amp;site=qq&amp;menu=yes" target="_blank">搜艇网客服</a>
+                <span>电话咨询 / 预订</span>
+                <em class="cl_orge">188-7698-7699</em>
 
-    <div class="zhpailie w1198">
-        <dt>
-            <span>排序方式</span>
-            <em class='zhpllan'><a href="http://www.souyacht.com/matou/index_times_0_0_0_1.html" title="按码头添加时间">添加时间</a></em>
-            <em class='zhplhui'><a href="http://www.souyacht.com/matou/index_shuliang_0_0_0_1.html" title="按码头泊位数量">泊位数量</a></em>
-            <em class='zhplhui'><a href="http://www.souyacht.com/matou/index_nianfen_0_0_0_1.html" title="按码头成立时间">成立时间</a></em>
-            <em class='zhplhui'><a href="http://www.souyacht.com/matou/index_hits_0_0_0_1.html" title="按码头浏览次数">浏览次数</a></em>
-        </dt>
-        <dd>
-              	                <span>
-                				<img src="http://www.souyacht.com/images/lefth.jpg">
-                                </span>
-            <em><b>1</b> / 4</em>
-            <i>
-                <a href="http://www.souyacht.com/matou/index_times_0_0_0_2.html" title="下一页"><img src="http://www.souyacht.com/images/right.jpg"></a>
-            </i>
-        </dd>
+            </dd>
+        </div>
+        <div class="qg_tj">
+            <dt><b>热门推荐</b></dt>
+            <dd>
+                <ul>
+                    <li>
+                        <a href="qianggou_75.html"  target="_blank" title=""><img src="http://www.souyacht.com/upload/xianshi_pic/2017-08-21/2017-08-21_17_17_58.jpg"  width="203" height="83" /></a>
+                        <h3 class="yincang"><a href="qianggou_75.html" target="_blank" title="三亚46尺意大利海上法拉利">三亚46尺意大利海上法拉利</a></h3>
+                        <p><span>￥2000元/3小时</span><i>34人预定</i></p>
+                    </li>
+
+                    <li>
+                        <a href="qianggou_53.html"  target="_blank" title=""><img src="http://www.souyacht.com/upload/xianshi_pic/2016-12-28/2016-12-28_09_29_17.jpg"  width="203" height="83" /></a>
+                        <h3 class="yincang"><a href="qianggou_53.html" target="_blank" title="45尺法国双体帆船游艇">45尺法国双体帆船游艇</a></h3>
+                        <p><span>￥3180元/3小时</span><i>41人预定</i></p>
+                    </li>
+
+                    <li>
+                        <a href="qianggou_63.html"  target="_blank" title=""><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-07/2016-07-07_18_45_54.jpg"  width="203" height="83" /></a>
+                        <h3 class="yincang"><a href="qianggou_63.html" target="_blank" title="72尺豪华游艇">72尺豪华游艇</a></h3>
+                        <p><span>￥4500元/3小时</span><i>10人预定</i></p>
+                    </li>
+
+                    <li>
+                        <a href="qianggou_99.html"  target="_blank" title=""><img src="http://www.souyacht.com/upload/xianshi_pic/2017-04-28/2017-04-28_16_18_35.jpg"  width="203" height="83" /></a>
+                        <h3 class="yincang"><a href="qianggou_99.html" target="_blank" title="72尺-豪华商务艇">72尺-豪华商务艇</a></h3>
+                        <p><span>￥4500元/3小时</span><i>5人预定</i></p>
+                    </li>
+
+                    <li>
+                        <a href="qianggou_32.html"  target="_blank" title=""><img src="http://www.souyacht.com/upload/xianshi_pic/2016-03-03/2016-03-03_14_28_23.png"  width="203" height="83" /></a>
+                        <h3 class="yincang"><a href="qianggou_32.html" target="_blank" title="33尺诺丽达运动艇">33尺诺丽达运动艇</a></h3>
+                        <p><span>￥2200元/3小时</span><i>0人预定</i></p>
+                    </li>
+
+                </ul>
+            </dd>
+        </div>
+        <div class="navbarabsolute" id="navbar">
+            <div class="qg_tj qg_tj01">
+                <dt><b>最近浏览</b></dt>
+                <dd>
+                    <ul>
+                    </ul>
+                </dd>
+            </div>
+        </div>
+        <script language="javascript">
+            $(window).scroll(function(){
+                if( $(window).scrollTop() > 1500){
+                    //scrollTop大于600 fixed0px IE6不支持fixed
+                    $("#navbar").attr("class","navbarfixed");
+                }else{
+                    //scrollTop小于600 固定为600px
+                    $("#navbar").attr("class","navbarabsolute");
+                }
+            });
+        </script>
+
+
     </div>
-
-    <div class="mvlist">
-        <ul>
-
-            <li>
-                <i class="blacktm"></i>
-                <a href="matouxx_2.html" title="三亚半山半岛帆船港" target="_blank"><i>成立年份：2009年<br/>泊位总数：325个<br/>最大泊位：164<br/>所在经度：东经109°30<br/>所在纬度：北纬18º</i></a>
-                <a href="matouxx_2.html" title="三亚半山半岛帆船港" target="_blank"><img src="http://www.souyacht.com/upload/matou/2014-10-06/2014-10-06_18_00_54.jpg"/></a>
-                <span class="hei chaochu"><a href="matouxx_2.html" title="三亚半山半岛帆船港" target="_blank">三亚半山半岛帆船港</a></span>
-                <p>海南岛上第一座世界级的帆船港——三亚半山半岛帆船港，坐落在三亚市向南延伸的鹿回头半岛的中部，被依山而建的一座座别墅、一幢幢摩天公寓以及五星级酒店和度假...</p>
-                <em>2015-06-17</em>
-            </li>
-            <li>
-                <i class="blacktm"></i>
-                <a href="matouxx_5.html" title="新埠岛国际游艇会" target="_blank"><i>成立年份：2010年<br/>泊位总数：140个<br/>最大泊位：76<br/>所在经度：东经110°21<br/>所在纬度：北纬20°03</i></a>
-                <a href="matouxx_5.html" title="新埠岛国际游艇会" target="_blank"><img src="http://www.souyacht.com/upload/matou/2014-10-06/2014-10-06_18_18_31.jpg"/></a>
-                <span class="hei chaochu"><a href="matouxx_5.html" title="新埠岛国际游艇会" target="_blank">新埠岛国际游艇会</a></span>
-                <p>海口新埠岛国际游艇会位于海口市新埠岛，由海口优联投资有限公司投资建设，项目总用地面积8.7万㎡，其中陆地面积约3.4万 ㎡，港池内水域总面积约5.3万...</p>
-                <em>2015-04-17</em>
-            </li>
-            <li>
-                <i class="blacktm"></i>
-                <a href="matouxx_1.html" title="三亚鸿洲国际游艇会码头" target="_blank"><i>成立年份：2005年<br/>泊位总数：601个<br/>最大泊位：165<br/>所在经度：东经109°36<br/>所在纬度：北纬18°18</i></a>
-                <a href="matouxx_1.html" title="三亚鸿洲国际游艇会码头" target="_blank"><img src="http://www.souyacht.com/upload/matou/2014-10-06/2014-10-06_17_43_23.jpg"/></a>
-                <span class="hei chaochu"><a href="matouxx_1.html" title="三亚鸿洲国际游艇会码头" target="_blank">三亚鸿洲国际游艇会码头</a></span>
-                <p>鸿洲国际游艇会坐落于中国唯一的热带滨海旅游城市-----三亚的两河交汇入海口的天然半岛，依山源水而建，东临大东海旅游景区，南靠南边海，西沿三亚湾，与情...</p>
-                <em>2015-04-17</em>
-            </li>
-            <li>
-                <i class="blacktm"></i>
-                <a href="matouxx_6.html" title="三亚亚龙湾游艇会" target="_blank"><i>成立年份：2011年<br/>泊位总数：150个<br/>最大泊位：200<br/>所在经度：东经109º<br/>所在纬度：北纬18.2º</i></a>
-                <a href="matouxx_6.html" title="三亚亚龙湾游艇会" target="_blank"><img src="http://www.souyacht.com/upload/matou/2014-10-06/2014-10-06_18_33_25.jpg"/></a>
-                <span class="hei chaochu"><a href="matouxx_6.html" title="三亚亚龙湾游艇会" target="_blank">三亚亚龙湾游艇会</a></span>
-                <p>三亚亚龙湾游艇会（Yalong Bay Yacht Club）是由世界500强-中粮集团三亚亚龙湾开发股份有限公司投资建设，并与中国顶级专业游艇管理公...</p>
-                <em>2015-04-17</em>
-            </li>
-            <li>
-                <i class="blacktm"></i>
-                <a href="matouxx_4.html" title="华润石梅湾国际游艇会" target="_blank"><i>成立年份：2013年<br/>泊位总数：329个<br/>最大泊位：165<br/>所在经度：东经110°16’<br/>所在纬度：北纬18°39’</i></a>
-                <a href="matouxx_4.html" title="华润石梅湾国际游艇会" target="_blank"><img src="http://www.souyacht.com/upload/matou/2014-10-06/2014-10-06_18_12_22.jpg"/></a>
-                <span class="hei chaochu"><a href="matouxx_4.html" title="华润石梅湾国际游艇会" target="_blank">华润石梅湾国际游艇会</a></span>
-                <p>一站式全功能游艇会所 悠享专属游艇人生石梅湾-最美纬度上的一颗明珠石梅湾位于海南省万宁市东南沿岸，占地12公顷。它由两个形如新月的海湾组成，东南临碧波...</p>
-                <em>2015-04-17</em>
-            </li>
-            <li>
-                <i class="blacktm"></i>
-                <a href="matouxx_3.html" title="雅居乐清水湾游艇会" target="_blank"><i>成立年份：2013年<br/>泊位总数：780个<br/>最大泊位：200<br/>所在经度：109°51′E<br/>所在纬度：18º23′N</i></a>
-                <a href="matouxx_3.html" title="雅居乐清水湾游艇会" target="_blank"><img src="http://www.souyacht.com/upload/matou/2014-10-06/2014-10-06_18_05_47.jpg"/></a>
-                <span class="hei chaochu"><a href="matouxx_3.html" title="雅居乐清水湾游艇会" target="_blank">雅居乐清水湾游艇会</a></span>
-                <p>海南清水湾游艇会位于项目一线海景核心组团——碧海帆影核心位置，雄踞12公里纯美海岸线核心，由法国著名游艇码头设计机构NDA公司设计，双海湾环绕，堪比澳...</p>
-                <em>2015-04-17</em>
-            </li>
-            <li>
-                <i class="blacktm"></i>
-                <a href="matouxx_7.html" title="深圳湾游艇会" target="_blank"><i>成立年份：2008年<br/>泊位总数：263个<br/>最大泊位：150<br/>所在经度：东经113°54’<br/>所在纬度：北纬22°28’</i></a>
-                <a href="matouxx_7.html" title="深圳湾游艇会" target="_blank"><img src="http://www.souyacht.com/upload/matou/2014-10-06/2014-10-06_18_42_38.jpg"/></a>
-                <span class="hei chaochu"><a href="matouxx_7.html" title="深圳湾游艇会" target="_blank">深圳湾游艇会</a></span>
-                <p>深圳湾游艇会（Shenzhen Bay Marina Club）是中国第一家拥有开放式口岸及国际游艇航线的豪华游艇会，是深圳市区内唯一的高端游艇俱乐部...</p>
-                <em>2015-04-17</em>
-            </li>
-            <li>
-                <i class="blacktm"></i>
-                <a href="matouxx_8.html" title="深圳万科浪骑游艇会" target="_blank"><i>成立年份：1998年<br/>泊位总数：275个<br/>最大泊位：154<br/>所在经度：东经14°33′<br/>所在纬度：北纬22°33′</i></a>
-                <a href="matouxx_8.html" title="深圳万科浪骑游艇会" target="_blank"><img src="http://www.souyacht.com/upload/matou/2014-10-06/2014-10-06_18_50_06.jpg"/></a>
-                <span class="hei chaochu"><a href="matouxx_8.html" title="深圳万科浪骑游艇会" target="_blank">深圳万科浪骑游艇会</a></span>
-                <p>浪骑游艇会成立于1998年5月, 拥有945平方公里的完美海域，275个泊位，座落于中国最美的半岛之首 —— 大鹏半岛和大亚湾海域之间，是中国第一家会...</p>
-                <em>2015-04-17</em>
-            </li>
-            <li>
-                <i class="blacktm"></i>
-                <a href="matouxx_10.html" title="深圳七星湾游艇会" target="_blank"><i>成立年份：2011年<br/>泊位总数：395个<br/>最大泊位：150<br/>所在经度：东经114°33’<br/>所在纬度：北纬22°33.4’</i></a>
-                <a href="matouxx_10.html" title="深圳七星湾游艇会" target="_blank"><img src="http://www.souyacht.com/upload/matou/2014-10-06/2014-10-06_19_01_59.jpg"/></a>
-                <span class="hei chaochu"><a href="matouxx_10.html" title="深圳七星湾游艇会" target="_blank">深圳七星湾游艇会</a></span>
-                <p>七星湾游艇会位于大鹏半岛的七星湾游艇会，坐拥水质优良的港湾，背靠国家级地质公园七娘山。游艇会总占地面积31万平方米，其中陆地面积22万平方米，港池占地...</p>
-                <em>2015-04-17</em>
-            </li>
-            <li>
-                <i class="blacktm"></i>
-                <a href="matouxx_11.html" title="广州莱茵游艇会" target="_blank"><i>成立年份：2006年<br/>泊位总数：100个<br/>最大泊位：60<br/>所在经度：东经113.3°<br/>所在纬度：北纬23.05°</i></a>
-                <a href="matouxx_11.html" title="广州莱茵游艇会" target="_blank"><img src="http://www.souyacht.com/upload/matou/2014-10-06/2014-10-06_19_10_04.jpg"/></a>
-                <span class="hei chaochu"><a href="matouxx_11.html" title="广州莱茵游艇会" target="_blank">广州莱茵游艇会</a></span>
-                <p>广州市番禺莱茵花园游艇会坐落在广州市番禺区洛溪沙窖岛上。今天的广州，城市建设一日千里，经济腾飞，周边水陆交通发达。番禺区更是历史文化悠久，人文风俗朴素...</p>
-                <em>2015-04-17</em>
-            </li>
-            <li>
-                <i class="blacktm"></i>
-                <a href="matouxx_12.html" title="大梅沙湾游艇会" target="_blank"><i>成立年份：2007年<br/>泊位总数：300个<br/>最大泊位：100<br/>所在经度：东经114.31°<br/>所在纬度：北纬22.6°</i></a>
-                <a href="matouxx_12.html" title="大梅沙湾游艇会" target="_blank"><img src="http://www.souyacht.com/upload/matou/2014-10-06/2014-10-06_23_15_23.jpg"/></a>
-                <span class="hei chaochu"><a href="matouxx_12.html" title="大梅沙湾游艇会" target="_blank">大梅沙湾游艇会</a></span>
-                <p>大梅沙国际游艇俱乐部的成立，不仅弥补了国内继高尔夫球运动之后休闲运动领域的又一个空白，为社会名流、商业巨贾、驻华使节、显贵政要进行商务、度假、休闲提供...</p>
-                <em>2015-04-17</em>
-            </li>
-            <li>
-                <i class="blacktm"></i>
-                <a href="matouxx_9.html" title="南沙游艇会" target="_blank"><i>成立年份：2011年<br/>泊位总数：352个<br/>最大泊位：165<br/>所在经度：东经113°35<br/>所在纬度：北纬22°46</i></a>
-                <a href="matouxx_9.html" title="南沙游艇会" target="_blank"><img src="http://www.souyacht.com/upload/matou/2014-10-06/2014-10-06_18_56_36.jpg"/></a>
-                <span class="hei chaochu"><a href="matouxx_9.html" title="南沙游艇会" target="_blank">南沙游艇会</a></span>
-                <p>南沙游艇会是广州南沙区政府与霍英东集团携手开发的高端游艇会项目，由广州南沙游艇会管理有限公司负责管理运营，是广州地区规模最大、档次最高、可停靠游艇最多...</p>
-                <em>2015-04-17</em>
-            </li>
-        </ul>
-        <dd>
-            <div class="page page_matou">
-                <span>当前第1/4页</span><em>首页</em><em>上一页</em><i id='pageover'>1</i><i><a href='index_times_0_0_0_2.html'>2</a></i><i><a href='index_times_0_0_0_3.html'>3</a></i><em><a href='index_times_0_0_0_2.html'>下一页</a></em><em><a href='index_times_0_0_0_4.html'>尾页</a></em>                </div>
-        </dd>
-    </div>
-
 </div>
 
 <div class="fuwu">
