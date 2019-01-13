@@ -39,7 +39,8 @@
         <dd class="index_tejia wi_fff">
             <ul>
                 <li>
-                    <a href="${contextPath}/page/subPage?name=tab_chuzu_xsqg" title="" target="_blank">
+                    <a href="javascript:;" onclick="chuzuClick()" title=""
+                       target="_blank">
                         <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-28/2016-07-28_16_34_42.jpg"
                                 width="271" height="218"/></u>
                         <p><i>34人已买</i><b>￥2000</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -679,3 +680,31 @@
 
 </div>
 
+<script>
+    function chuzuClick() {
+        $.ajax({
+            type: "GET",
+            url: "/yacht/page/subPage",
+            data: {name:"tab_chuzu"},
+            dataType: "json",
+            success: function(data){
+                console.log("12213");
+                layui.use('element', function(){
+                    let element = layui.element;
+
+                    //获取hash来切换选项卡，假设当前地址的hash为lay-id对应的值
+                    let layid = location.hash.replace(/^#tab=/, '');
+                    element.tabChange('tab', layid); //假设当前地址为：http://a.com#test1=222，那么选项卡会自动切换到“发送消息”这一项
+
+                    //监听Tab切换，以改变地址hash值
+                    element.on('tab(tabName)', function(){
+                        location.hash = 'tab=tab_chuzu';
+                    });
+                });
+            },
+            error:function(e){
+                console.log(e);
+            }
+        });
+    }
+</script>
