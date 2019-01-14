@@ -79,7 +79,8 @@
         </dd>
     </div>
 
-    <div class="" style="background:#fff; overflow:hidden; width:1200px; margin:15px auto 15px auto; border-radius:10px; ">
+    <div class=""
+         style="background:#fff; overflow:hidden; width:1200px; margin:15px auto 15px auto; border-radius:10px; ">
         <ul class="ytbk">
             <li class="Linte" id="TBAB1" onClick="setTabB('TBAB',1,5)">免费服务</li>
             <li id="TBAB2" onClick="setTabB('TBAB',2,5)">游艇路线</li>
@@ -682,16 +683,18 @@
 
 <script>
     function chuzuClick() {
-        ajax.get("/yacht/page/subPage",{name:'tab_chuzu'},function (data) {
-            layui.use('element', function(){
-                let element = layui.element;
-
-                //获取hash来切换选项卡，假设当前地址的hash为lay-id对应的值
-                let layid = location.hash.replace(/^#tab=/, '');
-                element.tabChange('tab', 'tab_chuzu'); //假设当前地址为：http://a.com#test1=222，那么选项卡会自动切换到“发送消息”这一项
-
-                location.hash = 'tab=tab_chuzu';
-            });
+        ajax.get("/yacht/page/subPage", {name: 'tab_chuzu'}, function (data) {
+            let element = layui.element;
+            //获取hash来切换选项卡，假设当前地址的hash为lay-id对应的值
+            element.tabChange('tab', 'tab_chuzu'); //假设当前地址为：http://a.com#test1=222，那么选项卡会自动切换到“发送消息”这一项
+            debugger;
+            if (data === '123') {
+                $('#tab_chuzu').css("display", "none");
+                $('#tab_chuzu_xsqg').css("display", "block");
+            } else {
+                $('#tab_chuzu').css("display", "block");
+                $('#tab_chuzu_xsqg').css("display", "none");
+            }
         });
     }
 </script>

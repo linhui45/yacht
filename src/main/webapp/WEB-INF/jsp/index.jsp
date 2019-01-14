@@ -49,7 +49,7 @@
         <img style=" margin-top:3px;" href="javascript:;" alt="缺少客服微信logo"/>
     </dd>
 </div>
-<div class="layui-tab nav" lay-filter="tabName">
+<div class="layui-tab nav" lay-filter="tab">
     <ul class="layui-tab-title nav_box">
         <li lay-id="tab_shouye" class="layui-this"><h2><a href="javascript:;" title="搜艇网首页" >首页</a></h2><span></span></li>
         <li lay-id="tab_chuzu"><h2><a href="javascript:;" title="租游艇限时抢购" target="_blank">特价游艇出租</a></h2><span></span></li>
@@ -67,10 +67,15 @@
         <li lay-id="tab_matou"><h2><a href="javascript:;" title="游艇码头" >游艇码头</a></h2><span></span></li>
     </ul>
     <div class="layui-tab-content">
-        <div class="layui-tab-item layui-show"><jsp:include page="tabpage/tab_shouye.jsp"/></div>
         <div class="layui-tab-item">
-                <jsp:include page="tabpage/tab_chuzu.jsp"/>
+            <%--<div id="tab_chuzu">--%>
+                <%--<jsp:include page="tabpage/tab_chuzu.jsp"/>--%>
+            <%--</div>--%>
+            <%--<div id="tab_chuzu_xsqg">--%>
+                <jsp:include page="tabpage/tab_chuzu_xsqg.jsp"/>
+            <%--</div>--%>
         </div>
+        <div class="layui-tab-item layui-show"><jsp:include page="tabpage/tab_shouye.jsp"/></div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_chushou.jsp"/></div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_zixun.jsp"/></div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_brand.jsp"/></div>
@@ -190,7 +195,7 @@
             element.tabChange('tab', layid); //假设当前地址为：http://a.com#test1=222，那么选项卡会自动切换到“发送消息”这一项
 
             //监听Tab切换，以改变地址hash值
-            element.on('tab(tabName)', function(){
+            element.on('tab(tab)', function(){
                 location.hash = 'tab='+ this.getAttribute('lay-id');
             });
         });

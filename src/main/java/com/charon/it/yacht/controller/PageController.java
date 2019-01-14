@@ -6,6 +6,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.ModelAndView;
 
+import javax.servlet.http.HttpSession;
+
 /**
  * Created with IntelliJ IDEA.
  * User: Administrator
@@ -15,15 +17,13 @@ import org.springframework.web.servlet.ModelAndView;
  */
 @Controller
 @RequestMapping("/page")
+@SessionAttributes("tab")
 public class PageController {
 
     @GetMapping("/subPage")
     @ResponseBody
-    public AjaxResult pageRedirect(@RequestParam("name")String name){
-        if (name.equals("123") ){
-            System.out.println("123");
-        }
-        System.out.println(name);
+    public AjaxResult pageRedirect(@RequestParam("name")String name, Model model){
+        model.addAttribute("tab","xsqg");
         return new AjaxResult("123");
     }
 }
