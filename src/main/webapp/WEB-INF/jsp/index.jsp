@@ -67,6 +67,7 @@
         <li lay-id="tab_matou"><h2><a href="javascript:;" title="游艇码头" >游艇码头</a></h2><span></span></li>
     </ul>
     <div class="layui-tab-content">
+        <div class="layui-tab-item layui-show"><jsp:include page="tabpage/tab_shouye.jsp"/></div>
         <div class="layui-tab-item">
             <%--<div id="tab_chuzu">--%>
                 <%--<jsp:include page="tabpage/tab_chuzu.jsp"/>--%>
@@ -75,7 +76,6 @@
                 <jsp:include page="tabpage/tab_chuzu_xsqg.jsp"/>
             <%--</div>--%>
         </div>
-        <div class="layui-tab-item layui-show"><jsp:include page="tabpage/tab_shouye.jsp"/></div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_chushou.jsp"/></div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_zixun.jsp"/></div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_brand.jsp"/></div>

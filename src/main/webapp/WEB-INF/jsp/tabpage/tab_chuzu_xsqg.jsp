@@ -141,7 +141,6 @@
                     <del id="yuanjia">原价：￥1800元</del>
                     <input name="" type="button" onclick="denglu(1)" value="立即购买套餐"/>
                 </div>
-                <script type="text/javascript" src="js/slider.js"></script>
             </div>
         </form>
         <div class="section s2">

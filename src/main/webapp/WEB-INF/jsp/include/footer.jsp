@@ -22,6 +22,7 @@ To change this template use File | Settings | File Templates.
 <script type="text/javascript" src="${contextPath}/static/js/jquery.DB_gallery.js"></script>
 <script	type="text/javascript" src="${contextPath}/static/js/jquery.smint.js"></script>
 <script	type="text/javascript" src="${contextPath}/static/js/jquery.showLoading.js"></script>
+<script	type="text/javascript" src="${contextPath}/static/js/slider.js"></script>
 
 <script	type="text/javascript" src="${contextPath}/static/charon/js/charon-public.js"></script>
 
