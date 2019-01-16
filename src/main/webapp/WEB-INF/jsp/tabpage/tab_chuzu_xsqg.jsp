@@ -409,3 +409,67 @@
         </div>
     </div>
 </div>
+<script type="text/javascript">
+    // $('.subMenu').smint({
+    //     'scrollSpeed': 1000
+    // });
+    function check(){
+        let bus_=document.myform1.bus_.value;
+        let user_=document.myform1.user_.value;
+        if(user_==bus_){
+            layer.msg("不能预订自己发布的产品",2,-1);
+            return false;
+        }
+
+
+        let val=$('input:radio[name="xianlu"]:checked').val();
+        if(val==null){
+            layer.msg("请选择游艇航线",2,-1);
+            return false;
+        }
+        return true;
+
+    }
+    function checkspace(checkstr) {
+        let str = '';
+        for(i = 0; i < checkstr.length; i++) {
+            str = str + ' ';
+        }
+        return (str == checkstr);
+    }
+    let runtimes = 0;
+    function GetRTime(){
+        const nMS = 332349418*1000-runtimes*1000;
+        if (nMS>=0){
+//var nD=Math.floor(nMS/(1000*60*60*24))%24;
+            const nD=Math.floor(nMS/(1000*60*60*24));
+            const nH=Math.floor(nMS/(1000*60*60))%24;
+            const nM=Math.floor(nMS/(1000*60)) % 60;
+            const nS=Math.floor(nMS/1000) % 60;
+            document.getElementById("RemainD").innerHTML=nD;
+            document.getElementById("RemainH").innerHTML=nH;
+            document.getElementById("RemainM").innerHTML=nM;
+            document.getElementById("RemainS").innerHTML=nS;
+            if(nMS==5*60*1000)
+            {
+                alert("还有最后五分钟！");
+            }
+            runtimes++;
+            setTimeout("GetRTime()",1000);
+        }
+    }
+    let Num = 0;
+    onload = function() {
+        Refresh();
+        setInterval("Refresh();",100);
+        GetRTime();
+    };
+    function Refresh() {
+        if (Num<10){
+            document.getElementById("RemainL").innerHTML = Num;
+            Num = Num + 1;
+        }else{
+            Num=0;
+        }
+    }
+</script>

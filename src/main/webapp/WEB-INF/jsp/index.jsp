@@ -52,15 +52,15 @@
 <div class="layui-tab nav" lay-filter="tab">
     <ul class="layui-tab-title nav_box">
         <li lay-id="tab_shouye" class="layui-this"><h2><a href="javascript:;" title="搜艇网首页" >首页</a></h2><span></span></li>
-        <li lay-id="tab_chuzu"><h2><a href="javascript:;" title="租游艇限时抢购" target="_blank">特价游艇出租</a></h2><span></span></li>
+        <li lay-id="tab_chuzu"><h2><a href="javascript:;" onclick="tabChange('tab_chuzu','tab_chuzu')" title="租游艇限时抢购" target="_blank">特价游艇出租</a></h2><span></span></li>
         <li lay-id="tab_chushou"><h2><a href="javascript:;" title="游艇出售">游艇出售</a></h2><span></span></li>
         <li lay-id="tab_zixun"><h2><a href="javascript:;" title="游艇资讯" >游艇资讯</a>
             <ul>
-                <li id="zhunav"><a href="javascript:;" title="游艇资讯">游艇资讯</a></li>
-                <li class="martop10" lay-id="4441"><a href="javascript:;" title="行业资讯">行业资讯</a></li>
-                <li><a href="javascript:;"  lay-id="4442" title="游艇生活">游艇生活</a></li>
-                <li><a href="javascript:;" lay-id="4443" title="游艇助手">游艇助手</a></li>
-                <li><a href="javascript:;" lay-id="4444" title="游艇学院">游艇学院</a></li>
+                <li lay-id="tab_zixun"><a href="javascript:;" onclick="tabChange('tab_zixun','tab_zixun')" title="游艇资讯">游艇资讯</a></li>
+                <li lay-id="tab_zixun_hyzx"><a href="javascript:;" onclick="tabChange('tab_zixun','tab_zixun_hyzx')" title="行业资讯">行业资讯</a></li>
+                <li lay-id="tab_zixun_ytsh"><a href="javascript:;" onclick="tabChange('tab_zixun','tab_zixun_ytsh')" title="游艇生活">游艇生活</a></li>
+                <li lay-id="tab_zixun_ytzs"><a href="javascript:;" onclick="tabChange('tab_zixun','tab_zixun_ytzs')" title="游艇助手">游艇助手</a></li>
+                <li lay-id="tab_zixun_ytxy"><a href="javascript:;" onclick="tabChange('tab_zixun','tab_zixun_ytxy')" title="游艇学院">游艇学院</a></li>
             </ul>
         </h2><span></span></li>
         <li lay-id="tab_brand"><h2><a href="javascript:;" title="游艇大全" >游艇品牌</a></h2><span></span></li>
@@ -77,7 +77,23 @@
             </div>
         </div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_chushou.jsp"/></div>
-        <div class="layui-tab-item"><jsp:include page="tabpage/tab_zixun.jsp"/></div>
+        <div class="layui-tab-item">
+            <div id="tab_zixun">
+                <jsp:include page="tabpage/tab_zixun.jsp"/>
+            </div>
+            <div id="tab_zixun_hyzx" style="display: none">
+                <jsp:include page="tabpage/tab_zixun_hyzx.jsp"/>
+            </div>
+            <div id="tab_zixun_ytsh" style="display: none">
+                <jsp:include page="tabpage/tab_zixun_ytsh.jsp"/>
+            </div>
+            <div id="tab_zixun_ytzs" style="display: none">
+                <jsp:include page="tabpage/tab_zixun_ytzs.jsp"/>
+            </div>
+            <div id="tab_zixun_ytxy" style="display: none">
+                <jsp:include page="tabpage/tab_zixun_ytxy.jsp"/>
+            </div>
+        </div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_brand.jsp"/></div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_matou.jsp"/></div>
     </div>
@@ -212,6 +228,20 @@
             $('.owl-buttons').hide();
         });
     })
+
+    function tabChange(tabName,subTabName) {
+        ajax.get("/yacht/page/subPage", {name: 'tab_chuzu'}, function (data) {
+            let element = layui.element;
+            //获取hash来切换选项卡，假设当前地址的hash为lay-id对应的值
+            element.tabChange('tab', tabName); //假设当前地址为：http://a.com#test1=222，那么选项卡会自动切换到“发送消息”这一项
+            let $subTabName = $('#'+subTabName);
+            $subTabName.css("display", "block");
+            let subTabs = $subTabName.siblings();
+            subTabs.each(function () {
+                $(this).css("display", "none");
+            });
+        });
+    }
 </script>
 </body>
 

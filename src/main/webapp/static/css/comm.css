@@ -353,7 +353,7 @@ a:hover{ color:#000; text-decoration:underline;}
 #inbanner_qie .btn {position:absolute; width:792px; height:10px; padding:11px 10px; right:0; bottom:0; text-align:right;}
 #inbanner_qie .btn span {display:inline-block; _display:inline; _zoom:1; width:25px; height:10px; _font-size:0; margin-left:5px; cursor:pointer; background:#fff;}
 #inbanner_qie .btn span.on {background:#fff;}
-#inbanner_qie .preNext {width:45px; height:100px; position:absolute; top:90px; background:url(../images/sprite.png) no-repeat 0 0; cursor:pointer;}
+#inbanner_qie .preNext {width:45px; height:100px; position:absolute; top:90px; background:url(../images/qianggou/sprite.png) no-repeat 0 0; cursor:pointer;}
 #inbanner_qie .pre {left:0;}
 #inbanner_qie .next {right:0; background-position:right top;}
 #inbanner_qie ul li img{width:792px; height:294px;}
@@ -367,7 +367,7 @@ a:hover{ color:#000; text-decoration:underline;}
 .sm_qie .btn {position:absolute; width:434px; height:10px; padding:11px 10px; right:0; bottom:0; text-align:right;}
 .sm_qie .btn span {display:inline-block; _display:inline; _zoom:1; width:25px; height:10px; _font-size:0; margin-left:5px; cursor:pointer; background:#fff;}
 .sm_qie .btn span.on {background:#fff;}
-.sm_qie .preNext {width:30px; height:60px; position:absolute; top:110px; background:url(../images/sprite.png) no-repeat; cursor:pointer;}
+.sm_qie .preNext {width:30px; height:60px; position:absolute; top:110px; background:url(../images/qianggou/sprite.png) no-repeat; cursor:pointer;}
 .sm_qie .pre {left:0;}
 .sm_qie .next {right:0; background-position:right top;}
 .sm_qie ul li img{width:434px; height:302px;}
@@ -426,7 +426,7 @@ a:hover{ color:#000; text-decoration:underline;}
 .inpro_cent_pic ul li img{width:163px; height:116px;}
 .inpro_cent_pic ul li span{width:153px; height:30px; float:left;position:absolute;bottom:0px; text-align:center; line-height:30px; overflow:hidden; padding:0px 5px 0px 5px;color:#FFF;}
 
-.inpro_cent_news{width:left; height:102px; float:left;}
+.inpro_cent_news{height:102px; float:left;}
 .inpro_cent_news li{width:100%; height:42px; float:left; border-bottom:#f1f1f1 1px dotted; line-height:42px;}
 .inpro_cent_news li span{width:66px; height:42px; float:left;color:#01a8ee; overflow:hidden;}
 .inpro_cent_news li em{width:510px; height:42px; float:left; text-overflow:ellipsis; white-space:nowrap;margin-left:2px; overflow:hidden; line-height:42px;}
