@@ -69,12 +69,12 @@
     <div class="layui-tab-content">
         <div class="layui-tab-item layui-show"><jsp:include page="tabpage/tab_shouye.jsp"/></div>
         <div class="layui-tab-item">
-            <%--<div id="tab_chuzu">--%>
-                <%--<jsp:include page="tabpage/tab_chuzu.jsp"/>--%>
-            <%--</div>--%>
-            <%--<div id="tab_chuzu_xsqg">--%>
+            <div id="tab_chuzu">
+                <jsp:include page="tabpage/tab_chuzu.jsp"/>
+            </div>
+            <div id="tab_chuzu_xsqg" style="display: none">
                 <jsp:include page="tabpage/tab_chuzu_xsqg.jsp"/>
-            <%--</div>--%>
+            </div>
         </div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_chushou.jsp"/></div>
         <div class="layui-tab-item"><jsp:include page="tabpage/tab_zixun.jsp"/></div>
