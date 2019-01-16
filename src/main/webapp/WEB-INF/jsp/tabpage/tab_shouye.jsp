@@ -395,7 +395,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_81.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-11-14/2016-11-14_11_43_22.jpg"
                                     width="271" height="218"/></u>
                             <p><i>3已定</i><b>￥2800</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -404,7 +404,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_95.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2017-03-10/2017-03-10_16_31_02.jpg"
                                     width="271" height="218"/></u>
                             <p><i>0已定</i><b>￥5800</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -421,7 +421,7 @@
             <dd class="index_tejia index_ri wi_fff">
                 <ul>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_82.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-11-14/2016-11-14_15_22_45.jpg"
                                     width="271" height="218"/></u>
                             <p><i>0已定</i><b>￥60000</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -430,7 +430,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_52.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-05-30/2016-05-30_15_09_08.jpg"
                                     width="271" height="218"/></u>
                             <p><i>15已定</i><b>￥5200</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -439,7 +439,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_106.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2017-05-21/2017-05-21_10_48_10.jpg"
                                     width="271" height="218"/></u>
                             <p><i>0已定</i><b>￥8800</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -448,7 +448,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_133.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2018-05-22/2018-05-22_16_25_57.jpg"
                                     width="271" height="218"/></u>
                             <p><i>0已定</i><b>￥16800</b><i style=" float:none; padding-left:3px;">/ 1小时</i></p>
@@ -476,21 +476,21 @@
         <dd class="in_leyj">
             <img src="${contextPath}/static/img/fanchuan.jpg" width="295"/>
             <em>
-                <b><a href="http://www.souyacht.com/news/saishihuizhan.html">帆船比赛</a></b>
-                <i><a href="http://www.souyacht.com/news/saishihuizhan.html">查看更多帆船比赛 >></a></i>
+                <b><a href="javascript:;">帆船比赛</a></b>
+                <i><a href="javascript:;">查看更多帆船比赛 >></a></i>
             </em>
-            <p class="space"><a href="news/saishihuizhanxx_582.html" target="_blank"
+            <p class="space"><a href="javascript:;" target="_blank"
                                 title="三亚游艇网祝鼓浪屿申遗成功">三亚游艇网祝鼓浪屿申遗成功</a></p>
-            <p class="space"><a href="news/saishihuizhanxx_501.html" target="_blank" title="2017迪拜国际游艇展 感受土豪们的海洋世界">2017迪拜国际游艇展
+            <p class="space"><a href="javascript:;" target="_blank" title="2017迪拜国际游艇展 感受土豪们的海洋世界">2017迪拜国际游艇展
                 感受土豪们的海洋世界</a></p>
-            <p class="space"><a href="news/saishihuizhanxx_435.html" target="_blank" title="纽约举办第111届游艇展 4万人参观与交易">纽约举办第111届游艇展
+            <p class="space"><a href="javascript:;" target="_blank" title="纽约举办第111届游艇展 4万人参观与交易">纽约举办第111届游艇展
                 4万人参观与交易</a></p>
         </dd>
         <div id="con_TabFAN_1" class="along_cen" style="float:left;">
             <dd class="index_tejia index_ri wi_fff">
                 <ul>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_53.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-12-28/2016-12-28_09_33_12.jpg"
                                     width="271" height="218"/></u>
                             <p><i>41已定</i><b>￥3180</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -499,7 +499,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_66.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-11/2016-07-11_14_47_57.jpg"
                                     width="271" height="218"/></u>
                             <p><i>4已定</i><b>￥5800</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -508,7 +508,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_122.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2017-09-23/2017-09-23_17_53_43.jpg"
                                     width="271" height="218"/></u>
                             <p><i>2已定</i><b>￥3000</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -517,7 +517,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_96.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2017-04-20/2017-04-20_21_47_50.jpg"
                                     width="271" height="218"/></u>
                             <p><i>2已定</i><b>￥2200</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -526,7 +526,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_73.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-23/2016-07-23_10_37_19.jpg"
                                     width="271" height="218"/></u>
                             <p><i>4已定</i><b>￥3200</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -535,7 +535,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_61.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-07/2016-07-07_17_25_53.jpg"
                                     width="271" height="218"/></u>
                             <p><i>3已定</i><b>￥3600</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -550,7 +550,7 @@
             <dd class="index_tejia index_ri wi_fff">
                 <ul>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_110.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2017-06-30/2017-06-30_22_49_14.jpg"
                                     width="271" height="218"/></u>
                             <p><i>1已定</i><b>￥2200</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -559,7 +559,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_87.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2017-01-11/2017-01-11_15_22_12.jpg"
                                     width="271" height="218"/></u>
                             <p><i>0已定</i><b>￥1200</b><i style=" float:none; padding-left:3px;">/ 小时</i></p>
@@ -574,7 +574,7 @@
             <dd class="index_tejia index_ri wi_fff">
                 <ul>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_53.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-12-28/2016-12-28_09_33_12.jpg"
                                     width="271" height="218"/></u>
                             <p><i>41已定</i><b>￥3180</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -583,7 +583,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_66.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-11/2016-07-11_14_47_57.jpg"
                                     width="271" height="218"/></u>
                             <p><i>4已定</i><b>￥5800</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -592,7 +592,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_122.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2017-09-23/2017-09-23_17_53_43.jpg"
                                     width="271" height="218"/></u>
                             <p><i>2已定</i><b>￥3000</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -601,7 +601,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_61.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-07/2016-07-07_17_25_53.jpg"
                                     width="271" height="218"/></u>
                             <p><i>3已定</i><b>￥3600</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -610,7 +610,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_64.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2016-07-07/2016-07-07_19_17_03.jpg"
                                     width="271" height="218"/></u>
                             <p><i>14已定</i><b>￥3200</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -619,7 +619,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/qianggou/qianggou_112.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/xianshi_pic/2017-08-10/2017-08-10_11_03_01.jpg"
                                     width="271" height="218"/></u>
                             <p><i>0已定</i><b>￥2600</b><i style=" float:none; padding-left:3px;">/ 3小时</i></p>
@@ -636,22 +636,22 @@
     <div class="index_hot with_1200">
         <dt class="index_nav">
             <ul class="haohua_Tab">
-                <p><em><a href="pinchuan" target="_blank">更多</a></em></p>
+                <p><em><a href="javascript:;" target="_blank">更多</a></em></p>
             </ul>
             <b>拼船</b>
         </dt>
         <dd class="in_leyj inye">
             <img src="${contextPath}/static/img/yeyou.jpg" width="295"/>
             <em class="inem">
-                <b><a href="http://www.souyacht.com/pinchuan/">拼船出海</a></b>
-                <i><a href="http://www.souyacht.com/pinchuan/">查看更多拼船出海 >></a></i>
+                <b><a href="javascript:;">拼船出海</a></b>
+                <i><a href="javascript:;">查看更多拼船出海 >></a></i>
             </em>
         </dd>
         <div id="con_TabPIN_1" class="along_cen" style="float:left;">
             <dd class="index_tejia index_ri wi_fff">
                 <ul>
                     <li>
-                        <a href="http://www.souyacht.com/pinchuan/pinchuan_9.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/chuanpiao_pic/2017-08-08/2017-08-08_16_07_56.jpg"
                                     width="271" height="218"/></u>
                             <p><i>已定：10</i><b>￥298.00</b></p>
@@ -659,7 +659,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/pinchuan/pinchuan_7.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/chuanpiao_pic/2016-11-14/2016-11-14_15_56_43.jpg"
                                     width="271" height="218"/></u>
                             <p><i>已定：5</i><b>￥128.00</b></p>
@@ -667,7 +667,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.souyacht.com/pinchuan/pinchuan_6.html" title="" target="_blank">
+                        <a href="javascript:;" title="" target="_blank">
                             <u><img src="http://www.souyacht.com/upload/chuanpiao_pic/2016-11-14/2016-11-14_15_39_12.jpg"
                                     width="271" height="218"/></u>
                             <p><i>已定：9</i><b>￥268.00</b></p>

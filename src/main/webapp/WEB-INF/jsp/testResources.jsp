@@ -76,7 +76,7 @@
 		<li lay-id="444">
 			<h2><a href="javascript:;" title="游艇资讯">游艇资讯</a>
 				<ul>
-					<li id="zhunav"><a href="http://www.souyacht.com/news/" title="游艇资讯">游艇资讯</a></li>
+					<li id="zhunav"><a href="javascript:;" title="游艇资讯">游艇资讯</a></li>
 					<li class="martop10"><a href="http://www.souyacht.com/news/hangyezixun.html" title="行业资讯">行业资讯</a>
 					</li>
 					<li><a href="http://www.souyacht.com/news/shenghuofangshi.html" title="游艇生活">游艇生活</a></li>
@@ -570,7 +570,7 @@
 		<a href="http://www.souyacht.com/product/fuwu.html" title="搜游艇服务">搜游艇服务</a> |
 		<a href="http://www.souyacht.com/product/chuzu.html" title="搜游艇出租">搜游艇出租</a> |
 		<a href="http://www.souyacht.com/product/chushou.html" title="搜游艇出售">搜游艇出售</a> |
-		<a href="http://www.souyacht.com/news/" title="搜游艇资讯">搜游艇资讯</a> |
+		<a href="javascript:;" title="搜游艇资讯">搜游艇资讯</a> |
 		<a href="http://www.souyacht.com/matou/" title="搜游艇码头">搜游艇码头</a> |
 		<a href="http://www.souyacht.com/yacht/" title="搜游艇大全">搜游艇大全</a> |
 		<a href="#" title="网站地图">网站地图</a> |
@@ -593,14 +593,14 @@
 		<!----<img src="http://www.souyacht.com//static/images/chengxin.jpg"/><img src="http://www.souyacht.com//static/images/kexin.jpg"/>------>
 	</div>
 	<p class="spfoot" id="J_desc">
-		搜<b><a href="http://www.souyacht.com/" title="三亚游艇出租">三亚游艇出租</a></b>,<b>游艇租赁</b>,<b>游艇出租</b>,<b>游艇销售</b>,<b><a
-			href="http://www.souyacht.com/" title="三亚游艇">三亚游艇</a></b>,<b>三亚包船</b>,搜艇网-中国首家游艇O2O一站式服务平台,业务遍布三亚游艇租赁,<a
-			href="http://www.souyacht.com/" title="厦门游艇出租"><strong>厦门游艇出租</strong></a>,深圳游艇租赁,广州游艇出租等,打造全中国最权威的游艇销售,出租,租赁,资讯,服务平台门户,实现游艇行业线上线下同步发展三亚,厦门,深圳,<a
-			href="http://www.souyacht.com/" title="广州等游艇租赁"><strong>广州等游艇租赁</strong></a>,
+		搜<b><a href="javascript:;" title="三亚游艇出租">三亚游艇出租</a></b>,<b>游艇租赁</b>,<b>游艇出租</b>,<b>游艇销售</b>,<b><a
+			href="javascript:;" title="三亚游艇">三亚游艇</a></b>,<b>三亚包船</b>,搜艇网-中国首家游艇O2O一站式服务平台,业务遍布三亚游艇租赁,<a
+			href="javascript:;" title="厦门游艇出租"><strong>厦门游艇出租</strong></a>,深圳游艇租赁,广州游艇出租等,打造全中国最权威的游艇销售,出租,租赁,资讯,服务平台门户,实现游艇行业线上线下同步发展三亚,厦门,深圳,<a
+			href="javascript:;" title="广州等游艇租赁"><strong>广州等游艇租赁</strong></a>,
 		游艇出租,游艇销售,开拓游艇行业互联网营销新时代从搜艇网开始！"要租游艇，到搜艇网"。承接<strong>三亚游艇租赁</strong>,游艇销售,海上包船,商务接待等服务。
 		我要上厦门游艇去找厦门游艇出租服务找到<strong>厦门游艇租赁</strong>网就要上游艇出租。<strong>深圳游艇租赁</strong>网公司主营:深圳游艇出租价格、
 		深圳游艇出租批发、深圳游艇出租采购,如需订购,请联系我们深圳游艇租赁服务网。厦门最好游艇服务就上<strong>厦门游艇出租</strong>游艇，找游艇租赁上<strong><a
-			href="http://www.souyacht.com/" title="厦门游艇租赁">厦门游艇租赁</a></strong>。
+			href="javascript:;" title="厦门游艇租赁">厦门游艇租赁</a></strong>。
 		广东深圳游艇出租,深圳鹏城游艇出租,视察深圳游船,南部深圳游艇出租,<b>深圳</b>、<b>厦门</b>、<b>广州</b>、<b>三亚</b>、<b>游艇</b>、<b>包船</b>、<b>销售</b>、<b>租赁</b>、<b>出租</b>...国内领先新型复合材料<strong>游艇出租</strong>,豪华<strong>游艇租赁</strong>服务一流!,游艇俱乐部及<strong>游艇销售</strong>纳广而成其博大。
 		海南三亚天气,<em>三亚游艇</em>旅游攻略,到<em>三亚游艇出租</em>地图,三亚的游艇网罗游艇出租,三亚游艇租赁业务进度的提升,
 		游艇租赁的价格主要是看租赁的游艇大小不同而不同,基本上是越大越贵！听说厦门,三亚还有上海的毅宏希仕会游艇俱乐部就有提供游艇出租业务,你可以了解看看。2016-03-01

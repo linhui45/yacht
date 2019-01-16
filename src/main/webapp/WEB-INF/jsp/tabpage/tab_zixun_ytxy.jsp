@@ -9,8 +9,8 @@
 <div class="w1200">
 
 	<div class="w956 fleft">
-		<div class="hdxx_local jiacu">当前位置：<a href="http://www.souyacht.com/" title="三亚游艇租赁"><strong>三亚游艇租赁</strong></a>>
-			<a href="http://www.souyacht.com/news/" title="游艇资讯"><b>游艇资讯</b></a> > 游艇学院
+		<div class="hdxx_local jiacu">当前位置：<a href="javascript:;" title="三亚游艇租赁"><strong>三亚游艇租赁</strong></a>>
+			<a href="javascript:;" title="游艇资讯"><b>游艇资讯</b></a> > 游艇学院
 		</div>
 
 		<div class="zix_list">

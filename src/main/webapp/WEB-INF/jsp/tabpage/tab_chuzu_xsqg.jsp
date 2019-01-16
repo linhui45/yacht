@@ -66,34 +66,34 @@
                             <li title="鹿回头码头—经三亚港—凤凰岛—小青洲岛—东岛—码头">出海线路2<input name="xianlu" type="radio" jiage="2800"
                                                                               yuanjia="2200" value="123"/></li>
                         </ul>
-                        <span>预定方式</span>
+                        <%--<span>预定方式</span>--%>
 
-                        <div class="right_ts_em">
+                        <%--<div class="right_ts_em">--%>
 
-                            <ul class="Content_Tab_01">
+                            <%--<ul class="Content_Tab_01">--%>
 
-                                <li class="qg_li01 qg_li01" id="ATBAB1" onClick="setTabB('ATBAB',1,2)">订金￥800.00<input
-                                        name="fanshi" type="radio" value="1" checked/></li>
+                                <%--<li class="qg_li01 qg_li01" id="ATBAB1" onClick="setTabB('ATBAB',1,2)">订金￥800.00<input--%>
+                                        <%--name="fanshi" type="radio" value="1" checked/></li>--%>
 
-                                <input name="dingjin" id="dingjin" type="hidden" value="800.00"/>
-                                <input name="bus_" id="bus_" type="hidden" value="6"/>
-                                <input name="user_" id="user_" type="hidden" value=""/>
-                                <input name="lijian" id="lijian" type="hidden" value="0.00"/>
-                                <input name="id" id="id" type="hidden" value="75"/>
-                                <li id="ATBAB2" onClick="setTabB('ATBAB',2,2)">全款<input name="fanshi" type="radio"
-                                                                                        value="2"/></li>
+                                <%--<input name="dingjin" id="dingjin" type="hidden" value="800.00"/>--%>
+                                <%--<input name="bus_" id="bus_" type="hidden" value="6"/>--%>
+                                <%--<input name="user_" id="user_" type="hidden" value=""/>--%>
+                                <%--<input name="lijian" id="lijian" type="hidden" value="0.00"/>--%>
+                                <%--<input name="id" id="id" type="hidden" value="75"/>--%>
+                                <%--<li id="ATBAB2" onClick="setTabB('ATBAB',2,2)">全款<input name="fanshi" type="radio"--%>
+                                                                                        <%--value="2"/></li>--%>
 
-                            </ul>
-                            <i class="qg_lifd">立减0.00元</i>
-                            <div id="con_ATBAB_1" class="long_cen" style="float:left; ;">
-                                <p>在线支付订金<i class="cl_orge">￥800.00</i> 获取服务码，到店再付<i class="cl_orge" id="cha">￥1200</i>，预约成功不退还。
-                                </p>
-                            </div>
-                            <div id="con_ATBAB_2" class="long_cen long_cen01" style="display:none;">
-                                <p>在线支付订金<i class="cl_orge" id="cha2">￥2000</i> 获取服务码，预约成功不退还。</p>
-                            </div>
+                            <%--</ul>--%>
+                            <%--<i class="qg_lifd">立减0.00元</i>--%>
+                            <%--<div id="con_ATBAB_1" class="long_cen" style="float:left; ;">--%>
+                                <%--<p>在线支付订金<i class="cl_orge">￥800.00</i> 获取服务码，到店再付<i class="cl_orge" id="cha">￥1200</i>，预约成功不退还。--%>
+                                <%--</p>--%>
+                            <%--</div>--%>
+                            <%--<div id="con_ATBAB_2" class="long_cen long_cen01" style="display:none;">--%>
+                                <%--<p>在线支付订金<i class="cl_orge" id="cha2">￥2000</i> 获取服务码，预约成功不退还。</p>--%>
+                            <%--</div>--%>
 
-                        </div>
+                        <%--</div>--%>
 
                     </div>
                     <div class="qg_xinxi_zf">
@@ -122,7 +122,7 @@
             <div class="section s1">
                 <div class="s_nav01"><b>相关增值服务</b></div>
                 <div class="tu tu01">
-                    <a target="_blank" href="#" title=""><img
+                    <a target="_blank" href="javascript:;" title=""><img
                             src="${contextPath}/static/upload/xianshi_pic/2016-07-28/2016-07-28_16_34_42.jpg"/></a>
                     <p><em class="yincang">三亚46尺意大利海上法拉利</em><em id="zhujiage">价格：￥2000 元</em></p>
                 </div>
@@ -352,45 +352,45 @@
             <dd>
                 <ul>
                     <li>
-                        <a href="qianggou_75.html" target="_blank" title=""><img
+                        <a href="javascript:;" target="_blank" title=""><img
                                 src="${contextPath}/static/upload/xianshi_pic/2017-08-21/2017-08-21_17_17_58.jpg"
                                 width="203" height="83"/></a>
-                        <h3 class="yincang"><a href="qianggou_75.html" target="_blank" title="三亚46尺意大利海上法拉利">三亚46尺意大利海上法拉利</a>
+                        <h3 class="yincang"><a href="javascript:;" target="_blank" title="三亚46尺意大利海上法拉利">三亚46尺意大利海上法拉利</a>
                         </h3>
                         <p><span>￥2000元/3小时</span><i>34人预定</i></p>
                     </li>
 
                     <li>
-                        <a href="qianggou_53.html" target="_blank" title=""><img
+                        <a href="javascript:;" target="_blank" title=""><img
                                 src="${contextPath}/static/upload/xianshi_pic/2016-12-28/2016-12-28_09_29_17.jpg"
                                 width="203" height="83"/></a>
-                        <h3 class="yincang"><a href="qianggou_53.html" target="_blank"
+                        <h3 class="yincang"><a href="javascript:;" target="_blank"
                                                title="45尺法国双体帆船游艇">45尺法国双体帆船游艇</a></h3>
                         <p><span>￥3180元/3小时</span><i>41人预定</i></p>
                     </li>
 
                     <li>
-                        <a href="qianggou_63.html" target="_blank" title=""><img
+                        <a href="javascript:;" target="_blank" title=""><img
                                 src="${contextPath}/static/upload/xianshi_pic/2016-07-07/2016-07-07_18_45_54.jpg"
                                 width="203" height="83"/></a>
-                        <h3 class="yincang"><a href="qianggou_63.html" target="_blank" title="72尺豪华游艇">72尺豪华游艇</a></h3>
+                        <h3 class="yincang"><a href="javascript:;" target="_blank" title="72尺豪华游艇">72尺豪华游艇</a></h3>
                         <p><span>￥4500元/3小时</span><i>10人预定</i></p>
                     </li>
 
                     <li>
-                        <a href="qianggou_99.html" target="_blank" title=""><img
+                        <a href="javascript:;" target="_blank" title=""><img
                                 src="${contextPath}/static/upload/xianshi_pic/2017-04-28/2017-04-28_16_18_35.jpg"
                                 width="203" height="83"/></a>
-                        <h3 class="yincang"><a href="qianggou_99.html" target="_blank" title="72尺-豪华商务艇">72尺-豪华商务艇</a>
+                        <h3 class="yincang"><a href="javascript:;" target="_blank" title="72尺-豪华商务艇">72尺-豪华商务艇</a>
                         </h3>
                         <p><span>￥4500元/3小时</span><i>5人预定</i></p>
                     </li>
 
                     <li>
-                        <a href="qianggou_32.html" target="_blank" title=""><img
+                        <a href="javascript:;" target="_blank" title=""><img
                                 src="${contextPath}/static/upload/xianshi_pic/2016-03-03/2016-03-03_14_28_23.png"
                                 width="203" height="83"/></a>
-                        <h3 class="yincang"><a href="qianggou_32.html" target="_blank" title="33尺诺丽达运动艇">33尺诺丽达运动艇</a>
+                        <h3 class="yincang"><a href="javascript:;" target="_blank" title="33尺诺丽达运动艇">33尺诺丽达运动艇</a>
                         </h3>
                         <p><span>￥2200元/3小时</span><i>0人预定</i></p>
                     </li>

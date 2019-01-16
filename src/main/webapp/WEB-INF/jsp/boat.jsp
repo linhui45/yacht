@@ -49,7 +49,7 @@
 <![endif]-->
 <div class="news_tnav">
     <div class="news_tnav_box map_tnav_box">
-        <dt><a href="http://www.souyacht.com">搜艇网</a>，<strong><a href="http://www.souyacht.com/" title="三亚游艇租赁">三亚游艇租赁</a></strong>,<strong><a href="http://www.souyacht.com/" title="三亚游艇出租">三亚游艇出租</a></strong>,<strong><a href="http://www.souyacht.com/" title="游艇销售">游艇销售</a></strong>,<strong><a href="http://www.souyacht.com/" title="三亚游艇">三亚游艇</a></strong>,<strong><a href="http://www.souyacht.com/" title="三亚包船">三亚包船</a></strong>,全国首家游艇O2O一站式服务平台！</dt>
+        <dt><a href="http://www.souyacht.com">搜艇网</a>，<strong><a href="javascript:;" title="三亚游艇租赁">三亚游艇租赁</a></strong>,<strong><a href="javascript:;" title="三亚游艇出租">三亚游艇出租</a></strong>,<strong><a href="javascript:;" title="游艇销售">游艇销售</a></strong>,<strong><a href="javascript:;" title="三亚游艇">三亚游艇</a></strong>,<strong><a href="javascript:;" title="三亚包船">三亚包船</a></strong>,全国首家游艇O2O一站式服务平台！</dt>
 
         <dd class="top_zhuce">
             <ul>
@@ -153,9 +153,9 @@
             </ul>
             --->
         </h2><span></span>
-        <h2 class="navsj"><a href="http://www.souyacht.com/news/" title="游艇资讯" >游艇资讯</a>
+        <h2 class="navsj"><a href="javascript:;" title="游艇资讯" >游艇资讯</a>
             <ul>
-                <li id="zhunav"><a href="http://www.souyacht.com/news/" title="游艇资讯">游艇资讯</a></li>
+                <li id="zhunav"><a href="javascript:;" title="游艇资讯">游艇资讯</a></li>
                 <li class="martop10"><a href="http://www.souyacht.com/news/hangyezixun.html" title="行业资讯">行业资讯</a></li>
                 <li><a href="http://www.souyacht.com/news/shenghuofangshi.html" title="游艇生活">游艇生活</a></li>
                 <li><a href="http://www.souyacht.com/news/youtingzhushou.html" title="游艇助手">游艇助手</a></li>
@@ -653,7 +653,7 @@
 <script src="http://www.souyacht.com/js/kefu.js" type="text/javascript"></script>
 <script type="text/javascript">try{goTopInit();}catch(e){}</script>
 <script type="text/javascript" src="http://www.souyacht.com/layer/layer.js"></script>
-<div class="foot_top white"><a href="http://www.souyacht.com/qiye/" title="搜游艇企业">搜游艇企业</a> | <a href="http://www.souyacht.com/product/" title="搜游艇产品">搜游艇产品</a> | <a href="http://www.souyacht.com/product/fuwu.html" title="搜游艇服务">搜游艇服务</a> | <a href="http://www.souyacht.com/product/chuzu.html" title="搜游艇出租">搜游艇出租</a> | <a href="http://www.souyacht.com/product/chushou.html" title="搜游艇出售">搜游艇出售</a> |<a href="http://www.souyacht.com/news/" title="搜游艇资讯">搜游艇资讯</a> | <a href="http://www.souyacht.com/matou/" title="搜游艇码头">搜游艇码头</a> | <a href="http://www.souyacht.com/yacht/" title="搜游艇大全">搜游艇大全</a> | <a href="#" title="网站地图">网站地图</a> | <a href="http://www.souyacht.com/about/jianjie.html" title="公司简介">公司简介</a> | <a href="http://www.souyacht.com/about/contact.html" title="联系我们">联系我们</a> | <a href="#" title="XML地图">XML地图</a> | <a href="https://tongji.baidu.com/web/24053873/homepage/index" target="_blank" title="百度统计">百度统计</a><script>
+<div class="foot_top white"><a href="http://www.souyacht.com/qiye/" title="搜游艇企业">搜游艇企业</a> | <a href="http://www.souyacht.com/product/" title="搜游艇产品">搜游艇产品</a> | <a href="http://www.souyacht.com/product/fuwu.html" title="搜游艇服务">搜游艇服务</a> | <a href="http://www.souyacht.com/product/chuzu.html" title="搜游艇出租">搜游艇出租</a> | <a href="http://www.souyacht.com/product/chushou.html" title="搜游艇出售">搜游艇出售</a> |<a href="javascript:;" title="搜游艇资讯">搜游艇资讯</a> | <a href="http://www.souyacht.com/matou/" title="搜游艇码头">搜游艇码头</a> | <a href="http://www.souyacht.com/yacht/" title="搜游艇大全">搜游艇大全</a> | <a href="#" title="网站地图">网站地图</a> | <a href="http://www.souyacht.com/about/jianjie.html" title="公司简介">公司简介</a> | <a href="http://www.souyacht.com/about/contact.html" title="联系我们">联系我们</a> | <a href="#" title="XML地图">XML地图</a> | <a href="https://tongji.baidu.com/web/24053873/homepage/index" target="_blank" title="百度统计">百度统计</a><script>
     var _hmt = _hmt || [];
     (function() {
         var hm = document.createElement("script");
